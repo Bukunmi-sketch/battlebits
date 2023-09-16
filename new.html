@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <div class="div">
+        <div class="div-2">
+          <div class="container">
+            <p class="new-players-receive">
+              New players receive 3000 turns and start with zero army. <br /><br />Turn regeneration: 15 turns every 10
+              minutes with a cap of 1800 turns. <br /><br />Game rounds last 3 days.
+            </p>
+            <div class="text-wrapper">Initial Setup</div>
+          </div>
+          <img class="initial-setup" src="img/initial-setup.png" />
+        </div>
+        <div class="div-2">
+          <img class="army-comp" src="img/army-comp.png" />
+          <div class="container-2">
+            <p class="infantry-weakest">
+              - Infantry (weakest unit) <br />- Tanks <br />- Ships <br />- Planes (strongest unit)
+            </p>
+            <div class="text-wrapper-2">Army Composition</div>
+          </div>
+        </div>
+        <div class="defensive-structures">
+          <div class="container-3">
+            <p class="walls-land-mines-sea">- Walls <br />- Land mines <br />- Sea mines <br />- Anti-air guns</p>
+            <div class="text-wrapper-3">Defensive Structures</div>
+          </div>
+          <img class="defense-struc" src="img/defense-struc.png" />
+        </div>
+        <div class="div-2">
+          <div class="website-design"></div>
+          <div class="container-4">
+            <p class="units-and-resources">
+              - Units and resources can be purchased with in-game currency or game turns. <br /><br />- Exploiting:
+              Deploy units on a global map to gain resources. Compete against others to hold and extract value from more
+              resource-rich territories.
+            </p>
+            <div class="text-wrapper-4">Economy</div>
+          </div>
+        </div>
+        <div class="div-3">
+          <div class="container-5">
+            <p class="players-can-attack">
+              - Players can attack opponents within a range of -30% to +30% of their power.<br />
+              <br />- Winning battles earns players a proportional amount of the opponent’s cash.
+            </p>
+            <div class="text-wrapper-5">Combat Mechanics</div>
+          </div>
+          <img class="combat" src="img/combat.png" />
+        </div>
+        <div class="div-3">
+          <img class="interface" src="img/interface.png" />
+          <div class="container-6">
+            <p class="homepage-login">
+              Homepage/Login:&nbsp;&nbsp;Simple layout for user login.<br />
+              <br />Dashboard:&nbsp;&nbsp; Display game stats, army overview, resources, and available actions.
+            </p>
+            <div class="text-wrapper-6">User Interface</div>
+          </div>
+        </div>
+        <div class="power-calc">
+          <div class="container-7">
+            <p class="p">Power is calculated based on army strength, cash, resources, and bank holdings.</p>
+            <div class="text-wrapper-7">Power Calculation</div>
+          </div>
+          <img class="img" src="img/power-calc.png" />
+        </div>
+        <div class="div-2">
+          <div class="website-design-2"></div>
+          <div class="container-8">
+            <p class="text-wrapper-8">
+              Players can store cash in the bank using 50 turns and withdraw with another 50 turns, safeguarding it from
+              being stolen during attacks.
+            </p>
+            <div class="text-wrapper-9">Banking Mechanism</div>
+          </div>
+        </div>
+      </div>
+      <div class="text-wrapper-10">Game Mechanics</div>
+      <p class="text-wrapper-11">
+        Develop a turn-based multiplayer game focusing on army building, resource management, and strategic engagements,
+        with integrated WARS cryptocurrency incentives.
+      </p>
+    </div>
+
+
+<style>
+    .frame {
+  position: relative;
+  width: 1728px;
+  height: 7804px;
+  background-color: #000000;
+}
+
+.frame .div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  position: absolute;
+  top: 661px;
+  left: 85px;
+}
+
+.frame .div-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container {
+  position: relative;
+  width: 710px;
+  height: 378px;
+}
+
+.frame .new-players-receive {
+  position: absolute;
+  width: 507px;
+  top: 126px;
+  left: 52px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 404px;
+  top: -1px;
+  left: 52px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+}
+
+.frame .initial-setup {
+  position: relative;
+  width: 768px;
+  height: 813px;
+  object-fit: cover;
+}
+
+.frame .army-comp {
+  position: relative;
+  width: 733px;
+  height: 813px;
+  object-fit: cover;
+}
+
+.frame .container-2 {
+  position: relative;
+  width: 672px;
+  height: 249px;
+}
+
+.frame .infantry-weakest {
+  position: absolute;
+  width: 710px;
+  top: 128px;
+  left: 65px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: -1px;
+  left: 65px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+  white-space: nowrap;
+}
+
+.frame .defensive-structures {
+  display: flex;
+  width: 1544px;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-3 {
+  position: relative;
+  width: 652px;
+  height: 275px;
+}
+
+.frame .walls-land-mines-sea {
+  position: absolute;
+  width: 710px;
+  top: 130px;
+  left: 0;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+  white-space: nowrap;
+}
+
+.frame .defense-struc {
+  position: relative;
+  width: 728px;
+  height: 780px;
+  object-fit: cover;
+}
+
+.frame .website-design {
+  position: relative;
+  width: 665px;
+  height: 813px;
+  background-image: url(./img/economy.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .container-4 {
+  position: relative;
+  width: 710px;
+  height: 443px;
+}
+
+.frame .units-and-resources {
+  position: absolute;
+  width: 522px;
+  top: 129px;
+  left: 78px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: -1px;
+  left: 78px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+  white-space: nowrap;
+}
+
+.frame .div-3 {
+  display: flex;
+  width: 1554px;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-5 {
+  position: relative;
+  width: 722px;
+  height: 364px;
+}
+
+.frame .players-can-attack {
+  position: absolute;
+  width: 511px;
+  top: 138px;
+  left: 59px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: -1px;
+  left: 59px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+  white-space: nowrap;
+}
+
+.frame .combat {
+  position: relative;
+  width: 737px;
+  height: 818px;
+  object-fit: cover;
+}
+
+.frame .interface {
+  position: relative;
+  width: 721px;
+  height: 816px;
+  object-fit: cover;
+}
+
+.frame .container-6 {
+  position: relative;
+  width: 710px;
+  height: 339px;
+}
+
+.frame .homepage-login {
+  position: absolute;
+  width: 559px;
+  top: 130px;
+  left: 72px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: -1px;
+  left: 72px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+  white-space: nowrap;
+}
+
+.frame .power-calc {
+  display: flex;
+  width: 1532px;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .container-7 {
+  position: relative;
+  width: 649px;
+  height: 271px;
+}
+
+.frame .p {
+  position: absolute;
+  width: 489px;
+  top: 130px;
+  left: 9px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  top: -1px;
+  left: 9px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: 105.8px;
+  white-space: nowrap;
+}
+
+.frame .img {
+  position: relative;
+  width: 727px;
+  height: 856px;
+  object-fit: cover;
+}
+
+.frame .website-design-2 {
+  position: relative;
+  width: 651.5px;
+  height: 815px;
+  background-image: url(./img/banking-mec.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .container-8 {
+  position: relative;
+  width: 710px;
+  height: 304px;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  width: 549px;
+  top: 128px;
+  left: 64px;
+  font-family: "Hind-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  top: -1px;
+  left: 64px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 75.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  width: 826px;
+  top: 144px;
+  left: 483px;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-weight: 400;
+  color: #ff9900;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: 176.3px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 1034px;
+  top: 336px;
+  left: 347px;
+  font-family: "Hind-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 35.3px;
+}
+
+</style>
+
+
+  </body>
+</html>

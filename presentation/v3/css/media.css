@@ -1,0 +1,2115 @@
+@media screen and (min-width:1680px) and (max-width:2580px) {
+    #md { float: none; display: block; width: 100%;}
+}
+
+@media screen and (min-width:1280px) and (max-width:1600px) { 
+    .top-acnt-row { padding:5px 0; }
+    .logo-row { padding-top:0;}
+    .acnt-rt-blk ul li a { font-size:14px; }
+    .jackpot-blk { margin:0 15px; width: 295px;}
+    .blockpeal-blk { width: 338px; }
+    .jackpot-rt { font-size:20px; width: 120px; padding-left: 15px; line-height: 20px; vertical-align:middle;}
+    .public-figure { font-size:14px; }
+    .block-peal-row { font-size: 15px; padding-left: 65px; margin-bottom: 5px;}
+    .blockpeal-lt { width:135px; }
+    .site-logo { width:270px; top: 0px; padding-left: 0;}
+    .site-logo a img { max-width:100%; }
+    .blockpeal-rt .block-peal-row { padding-left: 75px;}
+    .blockpeal-rt { width:193px; margin-left: 10px; }
+    .navbar-collapse .nav li a { font-size:16px; }
+    .navbar-collapse .nav li:first-child { padding-left: 15px;}
+    .menu-rt ul li a { font-size:13px; }
+    .menu-rt ul li { margin-right: 8px; }
+    .credits-blk span, .credits-blk span small { font-size:14px; }
+    .credits-links a { font-size:14px; }
+    .rank-options ul li a { font-size:14px; }
+    .rank-hdr { font-size:13px; width: 50px;}
+    .rank-options ul li { margin-right:9px; }
+    .attack-menu ul li span { font-size:13px; overflow: hidden;width: 85px;white-space: nowrap;text-overflow: ellipsis;display: inline-block;}
+    .attack-menu ul li small { font-size:13px; }
+    .sub-msg p { font-size:13px; }
+    .collect-section.hire-section { margin-top:5px; }
+    .bottom-hdr {font-size: 65px; }
+    .clct-inner-bg-part.hire-inner-bg { background-position: -50px 0px; }
+    .topgunsmoke { left:95px; }
+    .colct-rgt-part { width:63%; }
+    .collect-info i img { width:100px; }
+    .collect-info h3 {font-size: 14px; margin: 5px 0 5px;}
+    .collect-info span { font-size:12px; }
+    .cstm-chckbox-part input[type="radio"]:not(old) + label > span { width:30px; height:30px; }
+    .cstm-chckbox-part input[type="radio"]:not(old):checked + label > span > span::before { width: 23px;height: 23px; background-size: 15px;}
+    .colct-rgt-part.hire-rgt-part { margin-top: 70px;}
+    .attack-count-part span { font-size: 14px; }
+    .attack-count-part p { font-size:13px; }
+    .bodyguard-info img { width:60px; }
+    .defence-lft-part { margin-top:15px; }
+    .operative-lft-part { width:100%; }
+    .operative-rgt-part { width:100%; padding-right: 0; margin-top: 15px; text-align:left;}
+    .operative-rgt-part span { margin:0; }
+    .operative-part .defence-image-section ul li {width: 17.7%;margin-right: 2%;}
+    .bodyguard-info span { font-size: 13px; }
+    .defence-image-section ul li { width:31.9%; }
+    #ft-new { margin-top:20px; }
+    .acnt-rt-blk ul li a i { margin-top:6px; }
+    .acnt-rt-blk ul li a { line-height:34px; }
+    .acnt-rt-blk ul li a.switch-btn { line-height:24px; }
+    .acnt-rt-blk ul li a i.logout-icon { margin-top:8px; }
+    .credits-blk span { line-height:24px; }
+    .credits-links a { line-height:24px; }
+    .ft-menu-new { display:inline-block; margin: 25px 0 8px; }
+    .ft-menu-new ul li a { font-size:13px; line-height: 20px; }
+    .ft-menu-new ul li { padding: 0 19px; }
+    .ft-menu-new ul li::after { top:9px; }
+    #ft-new .copyright p { margin-top:0px; }
+    .defence-image-section { margin-top:0; }
+    .operative-part .defence-image-section { margin-top:-6px;}
+    .switch-btn.collect-btn { min-width: 70px;height: 35px;line-height: 35px; }
+    .first-sec { background-size:138px; }
+    .first-sec.lose-sec { background-size:138px;  }
+    .first-sec i img { max-width: 75%; }
+    .first-sec i {position: absolute;left: 10px;top: 31px; }
+    .vs-sec { margin-top: 40px; }
+    .vs-animat { margin-left:-42px; }
+    .dus-sec span, .dus-sec p { font-size:12px; }
+    .first-sec p { width: 120px; font-size: 19px; left: 10px;bottom: 0; }
+    .firesecond { right: 335px; }
+    .drive-mdl-part .drug-lab-mdl-part span { font-size: 32px; }
+    .drive-mdl-part .drug-lab-mdl-part h3 { font-size: 32px;}
+    .collect-section.driveby-section.attackarmory-section { min-height:490px; }
+    .win-sec { margin-top:15px; }
+    .mafiso-top-part {width: 45%; }
+    .mofisos-btn-part span { font-size:27px; }
+    .top-travel-banner-sec.award-banner-sec { background-position:0 0; }
+    .award-lft-part span { font-size: 32px; }
+    .attack-data .table-bordered > tbody > tr > td, .attack-data .table-bordered > tfoot > tr > td, .attack-data .table-bordered > thead > tr > td { font-size:14px; }
+    .union-info span {  line-height: 24px;}
+    .award-main-sec .union-info span { color:#cacac9; }
+    .user-name { font-size: 14px; }
+    .bank-box-list p { font-size: 13px; }
+    .bank-box-list span { font-size: 14px;}
+    .bottom-bnkbox-sec label { font-size: 14px;}
+    .top-travel-banner-sec.top-bank-banner-sec { margin-top:0; }
+    .black-market-inner-row { margin: 15px auto; }
+    .collect-section.black-market-btm-sec { padding:0 30px; min-height: 925px;}
+    .trade-sec .login-form { width:100%; }
+    .top-hdr-sec span { font-size: 20px; }
+    .top-hdr-sec p { font-size: 14px; }
+    .weapon-sec .blck-mrkt-innertop-part { padding-top:10px; }
+    .blck-mrkt-innertop-part ul li { width: 106px; }
+    .market-info i img { max-width:100%; }
+    .with-txt { margin-right:7px; font-size: 14px !important; }
+    .exchange-sec .mafiso-drpdwn { margin-right:5px; }
+    .trade-sec.form-row { margin-top: 10px;}
+    .market-info h3 { font-size:13px; }
+    .clct-inner-bg-part { background-position: -50px 0; }
+    .contract-tabs.welcome-section ul.tabs > li { min-width:200px; }
+    .cont-list-box { max-width:100%; height: 155px; background-size:100% 100%;}
+    .second-car { right: -19px;bottom: -19px; }
+    .second-car img { width:400px; }
+    .first-car img { width:350px; }
+    .first-car {bottom: -20px;left: -21px; }
+    .bluecar { bottom: 12px;left: 50px;}
+    .bluecar.secnd-light { left: 195px; bottom: 21px;}
+    .fourth-car { bottom: 146px;left: 235px; }
+    .third-car { right: 290px;bottom: 61px; }
+    .sidelight { bottom: 72px;left: 72px; }
+    .bulb-img { left:216px; }
+    .bulbsecond-img { left: 331px; }
+    .left-man-sec { right: 400px; }
+    .right-man-sec { right: 335px; }
+    .clct-inner-bg-part.family-inner-bg {min-height: inherit;}
+    .family-top-rgt-part.family-img-part .tmb-red-txt { font-size:20px; }
+    .tmb-list-rowc { margin-top:0;}
+    .found-part span { font-size: 14px; line-height: 20px;}
+    .found-part em { font-size: 14px; }
+    .tmb-list-row { margin-top:8px; }
+    .collect-section { min-height:350px; }
+    .home-listing-img { width: 250px; }
+    .home-listing-cont { width: 330px; margin-left:23px;}
+    .home-listing-cont h2, .home-listing-cont h2 a { font-size:30px;  }
+    .home-listing-cont p { font-size:16px;}
+    .login-page-lft-section .module.parallax-1 { background-size: 260px;top: 0; }
+    .signup-cntnt { margin-left: 260px; }
+    .login-box-body { margin-right:0; }
+    .login-page-lft-section .gun-fire { top:0; left: 140px; }
+    .login-box-body .mafiatxt-logo img { max-width: 76.5%;}
+    .login-box-body .mafiatxt-logo {left: -352px;top: -34px;}
+    .login-top-part { margin-top:0; }
+    .plan-fire { right:10px; }
+    .second-plane { left:20px; }
+    .drive-mdl-part.attack-plne-part {margin-top: 0px;}
+    .topgunsmoke.mailbox-smoke { left:327px; top:30px; }
+    .welcome-section.my-level-section.mail-box-section ul.tabs > li { font-size: 16px; padding: 10px 15px 8px; }
+    .level-info p { font-size:13px; }
+    .level-img em { font-size:30px; }
+    .level-sec ul li { width:21%;}
+    .signup-box-body.login-box-body { width:650px; }
+    .signup-page-section .top-logo.module.parallax.parallax-1 { background-size: 295px; }
+    .signup-page-section .signup-form { width:575px; }
+    .signup-page-section .top-links { width:430px; }
+    .signup-page-section .top-links li { width:20%; float: left; }
+    .signup-page-section .top-links li a { font-size:14px; }
+    .mafiatxt-logo.signup-logo img { width:248px; }
+    .mafiatxt-logo.signup-logo { left: 260px;height: 67px;top: 22px; }
+    .signup-page-section .top-links p { margin-top:15px; }
+    .gun-fire {top: 10px;left: 170px;}
+    .travel-count-row .red-txt { font-size: 18px; }
+    .total-cost-lft-part span, .total-cost-rgt-part span { font-size: 18px; }
+    .star-img {padding-left: 3px;}
+    .tmb-red-txt { font-size: 20px; }
+    .rankd-txt { font-size: 13px; margin-bottom: 0px;}
+    .fs-block { width:58%; left: 17%; }
+    .welcome-section ul.tabs > li { font-size:14px; }
+    .task-txt-part a { font-size:20px; }
+    .collect-section.user-sec { min-height: 600px; }
+    .new-user-txt-part p, .new-user-txt-part a { font-size:13px; }
+    .mafiasmoke.prizesmoke { left: 46%; top: 10px;}
+    .prize-table-data .global-tbl-sec .user-name { padding-left:0; font-size: 12px; word-break: break-all; }
+    .prize-table-data .global-tbl-sec ._mafioso_name { padding-left:0; font-size: 12px; word-break: break-all; }
+    .net-worth {font-size: 16px;}
+    .collect-section.user-sec.user-sec2 { min-height:inherit; }
+    .user-desc-top-left p, .user-desc-top-left span, .user-desc-top-right p, .user-desc-top-right span { font-size:14px !important; }
+    .user-desc-top-left .net-worth { font-size:14px; }
+    .user-desc-top-left .net-worth .red-txt {font-size: 18px;}
+    .login-page-lft-section .signup-cntnt { margin-top:100px; }
+    .left-img { position: absolute; left: 0;bottom: 0;}
+    .right-img {position: absolute;right: 0;bottom: 0;}
+    .sparkle { left:195px; }
+    .screenshot-sec .new-user-txt-part a { font-size:18px; }
+    .moneyincrse { top: 72px;left: 92px; }
+    .moneydown { top: 87px;left: 77px; }
+    .goldshine { top: 48px;left: 100px; }
+    .water { right: 108px;bottom: 112px; }
+    .family-user-img-sec {width: 100%;float: left;margin-right: 3%;}
+    .family-img-part .family-data {width: 56%;float: left;margin-top: 15px;}
+    .family-img-part .found-part span {display: inline-block;width: 25%;}
+    .online-sec .mafiso-top-part { width:56%; }
+    .user-lft-row p{ font-size:12px;}
+    .top-user-sec.top-user2-sec .user2-top-part .extra-text { font-size:13px; }
+    /*.user2-top-part .user-status li span { font-size:12px; }*/
+    .user2-top-part .other-links ul li a {font-size: 13px;} 
+    .user2-top-part .other-links ul li {padding: 8px 5px 8px;}
+    .user-lft-row { width: 28%; margin-top: 15px;}
+    .user2-top-part .other-links { width: 100%; }
+    .clct-inner-bg-part.union-inner-bg {background-position: -60px -40px!important;min-height: 350px;}
+    .credit-lft-bg { background-size:100%; }
+    .select-crdit-row .mafiso-drpdwn {width: 24%;}
+    .crdt-txt { margin: 15px 0px 5px; }
+    .crdt-txt span {font-size: 15px; }
+    .crdt-txt p {font-size: 14px;}
+    .convert-part p {font-size: 14px; }
+    .credit-top-part { height:152px; }
+    .buy-row p span {font-size: 12px; }
+    .buy-row p { font-size:13px; margin-bottom: 8px; }
+    .buy-rgt-part { margin-top:10px;padding-top: 10px; }
+    .buy-rgt-part ul li { font-size:11px; }
+    .buy-row .buy-lft-part i img { /*width:140px;*/ }
+    .main-family-page .family-img-part .found-part span { width:40%; float: left;text-align: left; }
+    .main-family-page .family-img-part .tmb-list-row ul li { margin-bottom: 0;}
+    .video-thumb-blk {height: 130px;}
+    .new-game-guide-page .video-sec iframe {height: 282px;}
+    
+    .or-sec { width:100%; display:inline-block; margin-top:15px; }
+    .new-family { font-size:18px; color:#ff0000;margin-bottom: 12px; position:relative; width:52%; display:inline-block; }
+    .new-family:after { content:''; background:#444; height:1px; width:220px; position:absolute; left:0; top:12px; display:inline-block; }
+    .new-family:before { content:''; background:#444; height:1px; width:220px; position:absolute; right:0; top:12px; display:inline-block; }
+    .family-find-sec .select-round-sec .clct-payment-part .login-form { width:346px; }
+    .family-find-sec .select-round-sec .or-sec .switch-btn.collect-btn.set-btn { padding: 0 15px; }
+    .game-top-link ul li a { font-size:16px; }
+    .credit-cntnt { padding:15px; margin-top: 8px; }
+    .credit-cntnt span { font-size:16px; margin: 7px 0;}
+    .credit-cntnt p { font-size:14px; line-height: 24px;}
+    .user2-top-part .user-status ul { width:60%; }
+    .chng-pswd-row .clct-payment-part span { width:37%; }
+    .chng-pswd-row .clct-payment-part .login-form { width:60%; }
+    .verify-row { margin-top:10px; }
+    .verify-row p {font-size: 12px; margin-bottom:5px;}
+    .jackpot-blk{ margin:0 0px 0 5px; width:275px;}
+    .jackpot-rt { font-size: 20px; width: 100px; padding-left: 10px;}
+    .blockpeal-blk { width: 370px;}
+    .blockpeal-lt { width: 165px;}
+    .protect-prgrm1 {background: #8c8788;border-radius:4px;padding: 10px;color: white; width: 225px;margin: 0px 300px; float:left;}
+    header.header-new .header-mafioso-right { width: 81%; }
+    header.header-new .timer-cnt {width: 52%; }
+    .mafioso-action ul li img { height: 17px; margin-right: 4px; }
+    ul.mafia_mafia_mafia_mafia_mafia_mafia_footerlinks li { margin: 0 21px; }
+    img.playvideo-img-big { max-width: 100%; }
+    }
+
+@media screen and (min-width:200px) and (max-width:1279px) {
+body { -webkit-text-size-adjust: none;}
+input, textarea, button, select { appearance: none; -moz-appearance: none; -webkit-appearance: none; }
+input[type="radio"] { appearance: radio; -moz-appearance: radio; -webkit-appearance: radio; }
+input[type="checkbox"] { appearance: checkbox; -moz-appearance: checkbox; -webkit-appearance: checkbox; }
+select { background-image: url(../images/select-arr.png); background-repeat: no-repeat; background-position: right center; }
+.min-height {min-height: inherit;}
+.collect-section{margin-top:0px}
+#ft-new{margin-top:10px;}
+.mafisos-section{margin-top:10px;}
+.blockpeal-rt .block-peal-row.jackpot-mob{ display:block;}
+.jackpot-rt.jackpot-mob{ display:none;}
+.black-market-leftbg .gun-img, .black-market-leftbg .gun-fire.black-mrket-fire, .black-market-leftbg .mafiasmoke.black-mrkt-smoke { display: none !important; }
+.protect-prgrm1 {background: #8c8788;border-radius:4px;padding: 10px;color: white; width: 225px;margin: 0px auto; float:left;}
+
+}
+@media screen and (min-width:1024px) and (max-width:1199px) {
+#mnwrp {background-size: 106%;}
+.credits-blk span {font-size: 14px; margin-right: 5px;}
+.credits-links a {font-size: 15px;}
+.credits-blk span small {font-size: 18px;}
+.acnt-rt-blk ul li a {font-size: 14px;}
+.top-acnt-row {padding: 5px 0;}
+.jackpot-blk {width: 60%; } 
+.blockpeal-blk {width: 39%}
+.countdown-amount {font-size: 20px;}
+.countdown-period {font-size: 12px;}
+.public-figure {font-size: 15px;}
+.jackpot-lt { width: 67%; }
+.jackpot-rt span { font-size: 20px; }
+.jackpot-rt {width: 43%; }
+.jackpot-label { width: 115px; }
+.attack-menu ul li {width: 93px; }
+/*.attack-menu ul li small {min-height: 34px; display: block;}*/
+.attack-menu ul li small, .attack-menu ul li span {font-size: 13px;}
+.mid-sub-msg {padding-left:0; padding-right: 0;}
+.home-listing-inn {padding: 15px; margin-bottom: 15px;}
+.home-listing-grid .home-listing-img, .home-listing-img {width: 40%; }
+.home-listing-grid .home-listing-cont, .home-listing-cont {width: 59%; margin: 0 !important; padding-left: 10px;}
+.home-listing-single .home-listing-cont {padding: 15px 0 0;}
+.home-listing-cont h2, .home-listing-cont h2 a {font-size: 30px;}
+.home-listing-cont h2 {margin-bottom: 15px;}
+.home-listing-cont p {font-size: 13px; line-height: 20px; padding-right: 40px;}
+.home-listing-grid ul li {width: 100%;}
+.home-listing-single .home-listing-cont, .home-listing-grid .home-listing-cont {margin-top: 0;}
+.home-listing-grid .home-listing-inn {margin-top: 0px;}
+.home-listing.home-listing-grid ul li:last-child { padding-left: 15px; }
+#ft {padding: 20px 10px; background-size: cover;}
+.ft-menu ul li {padding: 0 14px;}
+.ft-menu ul li:last-child {padding-right: 0;}
+.ft-menu ul li:first-child {padding-left: 0;}
+.ft-menu ul li::after {width: 20px; top: 4px; right: -12px;}
+.ft-menu ul li a {font-size: 13px;}
+.menu-row-fixed {position: static; padding: 0; width:100%;}
+.menu-row-fixed .row {margin: 0 -15px;}
+.rank-options {width: 30%; margin-right: 20px; padding-left: 60px;}
+.rank-options:nth-child(3n) {margin-right: 0;}
+.view-row {width: 38%;}
+.menu-row .container {width: 100%;}
+.rank-options ul li {margin-right: 7px;}
+.rank-options ul li a {font-size: 14px;}
+.rank-hdr {font-size: 14px; width: 50px;}
+.headernew-timerbg { width: 56%; }
+.navbar-collapse .nav li:first-child {padding-left: 10px;}
+.navbar-collapse .nav li {padding-left: 10px; padding-right: 10px;}
+.navbar-collapse .nav li a {font-size: 16px;}
+.menu-rt ul li a {font-size: 15px;}
+.menu-rt ul li {margin-right: 10px;}
+.top-menu-row { display:none; }
+.welcome-video > img { max-width:60%; }
+.cmn-hdr { font-size:16px;}
+.tab-content.main-tab-part { height:auto;}
+.welcome-section ul.tabs > li  { padding:13px 8px 10px; font-size:15px;}
+.menu-row.menu-row-fixed + .holder-div { height:inherit; }
+.welcome-tab{ overflow:hidden;}
+.tab_container.main-tab-part { min-height: auto; }
+.new-user-img-part img { width:100%; }
+.new-user-txt-part { width:100%;}
+.new-user-txt-part p { font-size:14px; }
+.new-user-txt-part a { font-size:14px;}
+#ft-new .container::before{right:-30px}
+
+.water { right: 110px; }
+.right-img { z-index: 3; }
+.game-guide-accordion .panel-body {padding-right: 15px;}
+.video-thumb-blk {height: 131px;}
+.mafiso-top-part.family-rank-part {width: 45%;}
+.welcome-top-part { width: 59%; }
+.game-top-link ul li a { font-size:16px; }
+.user-dtl-sec .user-award-top .collect-section.user-awrd-colln { margin-top:25px; }
+.credit-mdl-cntnt { background-size:cover; background-position: center bottom; }
+.credit-lft-bg { background-position: -48px 0; }
+.credit-btn-part .switch-btn.collect-btn { min-width:95px; }
+.buy-row p { font-size: 14px;  line-height: 20px; margin-bottom: 10px;}
+.buy-row p span { font-size: 12px; }
+.buy-rgt-part { margin-top:0px; }
+.buy-row .buy-lft-part i img { width:135px;}
+.buy-row .buy-lft-part p { margin-bottom: 5px; }
+.play-info.my-acnt-lft-info .block-peal-row { padding-left:160px !important; }
+.chng-pswd-row .clct-payment-part span { width:40%; }
+.respns-non { display: none !important;}
+.clct-payment-part.ipad-respn .login-form { width:100%; text-align: center; }
+.verify-row p { font-size: 12px; margin-bottom:5px;}
+.verify-row { margin-top:8px; }
+.play-info.my-acnt-lft-info, .play-info.my-acnt-rgt-info { margin-top:0; margin-bottom:10px;}
+.acnt-rt-blk ul li a {line-height: 34px;}
+.acnt-rt-blk ul li a.switch-btn {line-height: 24px;}
+.acnt-rt-blk ul li a i {margin-top: 6px;}
+.top-acnt-row .credits-blk span { line-height:34px; }
+.top-acnt-row .credits-blk { margin-top:0; }
+.acnt-rt-blk ul li a i.logout-icon {margin-top: 8px;}
+.trade-sec { margin-top:10px; }
+.contract-tabs.welcome-section .tab_container.main-tab-part { padding:0 15px; }
+.play-table-row .count { display:block; }
+.ft-menu-new{margin: 20px 0 18px;}
+.social-btns-new{ margin-top:10px;}
+.login-lft-part .how-to-video a img { width: 100%;}
+.chng-pswd-row .clct-payment-part { margin-top: 10px;}
+mafia_mafia_mafia_mafia_mafia_mafia_footer#ft-new.bottom-height{ background-size:100% 100%;}
+.play-info.my-acnt-lft-info{ min-height:inherit;}
+.credit-tbl-part .attack-data .table-bordered > tbody > tr > td em{ display:inline-block; margin-right:10px;}
+.blockpeal-rt .block-peal-row.jackpot-mob {  display: none;}
+
+.clct-inner-bg-part.travel-inner-bg .mafiasmoke, .clct-inner-bg-part.travel-inner-bg .gototop img { display: none !important; }
+.travel-cost-lft-part { width: 50%; }
+.travel-cost-rgt-part { width: 50%; }
+.travel-count-part ul li { margin: 10px 0; }
+.travel-count-part {  min-height: 165px; }
+.black-market-leftbg .black-market-inner-row { margin: 45px auto; }
+.protect-prgrm1 {background: #8c8788;border-radius:4px;padding: 10px;color: white; width: 225px;margin: 0px auto; float:left;}
+.mafioso-right { width: 78%; }
+.menu-rt { width: 75%; }
+.chat-section { width: 25%; }
+.chat-section a { font-size: 15px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new { padding-top: 100px; padding-bottom: 20px;  }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new ul.mafia_mafia_mafia_mafia_mafia_mafia_footer-link li a { font-size: 19px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new h4.mafia_mafia_mafia_mafia_mafia_mafia_footer-heading { font-size: 25px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new .mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon { padding: 20px 0; }
+header.header-new .timer-cnt {width: 52%; }
+.mafioso-action ul li img { height: 18px; margin-right: 4px; }
+.rank-options:last-child { width: 27.5%; }
+header.header-new .topright-links a { font-size:  13px; }
+ul.mafia_mafia_mafia_mafia_mafia_mafia_footerlinks li { margin: 0 23px; }
+.mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon img { width: 50px; }
+img.playvideo-img-big { max-width: 100%; }
+.round-play-cnt2 { width: 37%;}
+.round-play-cnt3 { width: 33%;}
+.home-listing.home-listing-grid ul li:first-child { padding-right: 15px; }
+.mafioso-action ul li { font-size: 12px; width: auto; padding-right: 0; }
+header.header-new .publicround-btn { font-size: 14px; }
+.top-day-count { font-size: 34px; }
+header.header-new .jackpot-amount-cnt { font-size: 28px; padding-top: 17px; }
+header.header-new .jackpot-amount-cnt span { font-size: 30px;  }
+.turboround-btn { margin-left: 5px; padding: 0px 9px; font-size: 12px; }
+.turboround-btn span { font-size: 16px; }
+.newplayer-cnt { min-height: inherit; }
+.home-listing-single .home-listing-inn { padding-bottom: 40px; }
+header.header-new .top-credit-cnt a.header-buycredit-btn { font-size: 14px; padding: 5px; }
+.blog-date-r { clear: both; padding-top: 5px; width: auto; float: none; text-align: left; }
+.home-listing-grid #owl-carousel .home-listing-inn { min-height: inherit; }
+.family_top_cls { width: 35%;}
+.fm_class_two { width: 59% !important; }
+.fm_class_one, .fm_class_three {
+    margin-left: 30px;
+}
+.family_top_noti { text-align: center; margin:  0; }
+.main-family-page .family-img-part .family-data { padding: 20px; }
+.family-top-rgt-part.family-img-part .tmb-red-txt { font-size: 20px; }
+.family-img-part .found-part span { font-size:  16px; }
+}
+@media screen and (min-width:1024px) and (max-width:1136px) {
+    .login-top-part {margin-top:0;}
+    .login-lft-part img{width:100%}
+.signup-cntnt{margin-left:290px;}
+.login-box-body{margin-right:0px; width:300px;}
+.ft-menu-new ul li::after {width: 28px; right: -15px;}
+.ft-menu-new ul li{padding:0 15px;}
+.top-logo{width:75%;height:180px; position:relative; z-index:-1}
+.signup-box-body.login-box-body{float:none; width:100%; margin-top:140px;}
+.signup-cntnt{margin-top:0px;}
+.login-box-body .mafiatxt-logo {left: -300px; }
+.login-page-rgt-section .login-box-body .mafiatxt-logo {left: -365px; top: -40px; }
+.login-page-lft-section .module.parallax-1 { background-size: 100% auto; padding: 230px 0 185px; }
+.login-page-lft-section .signup-cntnt {margin-top:110px; margin-left:0; width: 49%;}
+.login-page-lft-section .top-logo {width:50%;height:180px; position:relative; z-index:-1; float:left;}
+.signup-btn { margin-top: 20px; }
+.signup-page-section .top-logo { width:35%; }
+.signup-page-section .module.parallax { background-size: 100% auto; float:left; padding: 130px 0;}
+.signup-page-section .mafiatxt-logo { left: 290px; }
+.signup-page-section .signup-box-body.login-box-body { float:right;width: 100%;margin-top: 0; }
+.signup-page-section .top-links { width: 63%; margin-top: 140px;}
+.mafiso-top-part { width: 50%; }
+.bottom-hdr { font-size:70px; line-height:70px; }
+.collect-info h3 { font-size: 20px; }
+.clct-inner-bg-part.produce-inner-bg { background-position: -60px 0;min-height: inherit; }
+.rght-img-part { display:none;}
+.collect-info span { font-size:13px; }
+.blck-mrkt-innertop-part ul li:nth-child(even) { margin-right:0; }
+.blck-mrkt-innertop-part ul li:nth-child(odd) { margin-left:0; }
+.blck-mrkt-innertop-part ul li { margin-bottom:15px; }
+.weapon-sec .blck-mrkt-innertop-part { padding:10px 0; }
+.black-market-inner-row.weapon-sec { margin:0px auto; }
+.black-market-inner-row { margin:15px auto; }
+.blck-mrkt-innertop-part { padding:15px 0; }
+.gototop.gun-img { right:150px; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > td, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > td, .global-tbl-sec .attack-data .table-bordered > thead > tr > td { font-size:15px; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > th, .global-tbl-sec .attack-data .table-bordered > thead > tr > th, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > th { font-size:15px; }
+.gun-fire { left:200px; }
+.gun-fire.login-fire { left:185px; top:4%; }
+.top-travel-banner-sec i.gun-img { right:0; }
+.gun-fire.black-mrket-fire { right:180px; }
+.mafiasmoke.black-mrkt-smoke { left: 40%; }
+.count { display: none;}
+.clct-inner-bg-part.family-inner-bg { background-position:-80px 0; }
+.star-img { padding-left: 5px; }
+.top-travel-banner-sec.award-banner-sec { background-position:center top; }
+.mafisos-section.global-sec.awards-table-data { margin-top: -100px;}
+.level-sec ul li { width:25%; }
+.collect-section.driveby-section{min-height:650px; overflow:hidden; background-size:cover}
+.first-car{left:-70px;}
+.second-car{right:-205px;}
+.third-car{right:200px;}
+.fourth-car{left:300px;}
+.first-sec{width:40%}
+.first-sec.lose-sec{margin-right:-40px; float:right;z-index: 9;}
+.vs-sec{width:20%}
+.vs-sec .capguy{margin:0 0 0 -45px; }
+.armory-section{margin-top:-80px;}
+.bank-btm-sec.collect-section{min-height:600px;}
+.top-travel-banner-sec.top-bank-banner-sec{margin:25px auto auto}
+.expbusi-hand{top:-4px !important}
+.second-plane { left:30px; }
+.plan-fire { right:20px; }
+.third-plane { right: -90px; }
+.tab_container.mylevel-tab-part.mail-box-tab-part { border-top:1px solid #444; }
+.vs-animat { margin-left:-43px; }
+.firesecond { right:345px; }
+.back-btn .cmn-cost-btn { line-height:40px; }
+.bulb-img, .bulbsecond-img { display:none; }
+.operative-lft-part { width:100%;}
+.operative-rgt-part { width:100%; padding-right:0; text-align:left; margin-top:15px;}
+.defence-lft-part { margin-top:15px; }
+.bodyguard-info span { width:auto; }
+.defence-image-section { margin-top:0; }
+.produce-inner-bg .collect-info h3 { font-size: 16px;}
+.produce-inner-bg .topgunsmoke.hiresmoke { left:60px; }
+.signup-page-section.faq-page-section .top-links {margin-top: 15px;}
+.faq-page-section .site-logo { margin-top:15px; }
+.faq-box-body .btn.btn-raised { white-space:inherit; padding-right: 45px;position: relative; line-height: 20px; }
+.faq-box-body .panel-heading i { margin-top:0; position: absolute; right: 13px; top: 12px; }
+.game-guides-rules.screenshot-sec { padding-top:0; }
+.faq-hdr h3 { font-size:40px; }
+.goldshine { left:100px;} 
+.moneydown { left:80px; }
+.moneyincrse { left:93px; }
+.online-sec .mafiso-top-part {width: 100%; text-align:center;}
+.online-sec .mafiso-drpdwn { width:30%; text-align:left;}
+.family-img-part .found-part span { line-height:24px; }
+.user2-top-part .user-status ul { width:60%; }
+.user-lft-row { width: 28%; }
+.user-lft-row p { font-size:12px; }
+.top-user-sec.top-user2-sec .user2-top-part .extra-text{ font-size:14px; }
+.user2-top-part .other-links ul li { padding:8px 4px; }
+.user2-top-part .other-links ul li a { font-size:14px; }
+.clct-inner-bg-part.union-inner-bg { background-position:-135px 0; }
+.new-family::before, .new-family::after { display:none; }
+.credit-cntnt h3 { font-size:18px; }
+.credit-cntnt span { margin: 10px 0; font-size:18px; }
+.credit-cntnt p {font-size: 15px;color: #999;line-height: 26px;}
+.protect-prgrm1 {background: #8c8788;border-radius:4px;padding: 10px;color: white; width: 225px;margin: 0px auto; float:left;}
+.invite-banner {
+    margin-bottom: 15px;
+}
+}
+@media screen and (min-width:768px) and (max-width:1023px) {
+.top-travel-banner-sec.top-bank-banner-sec{margin:25px auto auto}
+#mnwrp {background-size: 108%;}
+.credits-blk span {font-size: 14px; margin-right: 5px;}
+.acnt-rt-blk, .credits-blk {padding: 0;}
+.credits-links a {font-size: 14px;}
+.credits-blk span small {font-size: 16px;}
+.acnt-rt-blk ul li a {font-size: 14px;}
+.top-acnt-row {padding: 5px 0;}
+.jackpot-blk {width: 55%; } 
+.blockpeal-blk {width: 44%}
+.blockpeal-lt {margin-bottom: 3px;}
+.countdown-amount {font-size: 20px;}
+.countdown-period {font-size: 12px;}
+.public-figure {font-size: 15px;}
+.jackpot-rt {width: 38%; padding-top: 0; padding-bottom: 0; font-size: 22px; line-height: 24px; text-align: left;}
+.attack-menu ul li {width: 102px;}
+.attack-menu ul li small {display: block;}
+.attack-menu ul li small, .attack-menu ul li span {font-size: 12px;}
+.mid-sub-msg {padding-left:0; padding-right: 0;}
+.home-listing-inn {padding: 15px; margin-bottom: 15px;}
+.home-listing-img {width: 100%; margin-bottom: 15px;}
+.home-listing-cont {width: 100%; margin: 0;}
+.home-listing-cont h2, .home-listing-cont h2 a {font-size: 30px;}
+.home-listing-cont h2 {margin-bottom: 15px;}
+.home-listing-cont p {font-size: 14px; line-height: 20px; padding-right: 40px;}
+.home-listing-grid ul li {width: 100%;}
+.home-listing-single .home-listing-cont, .home-listing-grid .home-listing-cont {margin-top: 0;}
+.home-listing-grid .home-listing-inn {margin-top: 0px;}
+.home-listing.home-listing-grid ul li:first-child, .home-blog-forum-row div:first-child.col-md-6 { padding-right: 15px; }
+.home-listing.home-listing-grid ul li:last-child, .home-blog-forum-row div:last-child.col-md-6 { padding-left: 15px; }
+.blog-forum-cnt { margin-bottom: 10px; }
+#ft {padding: 20px 10px; background-size: cover;}
+.ft-menu ul li {padding: 0 14px;}
+.ft-menu ul li:last-child {padding-right: 0;}
+.ft-menu ul li:first-child {padding-left: 0;}
+.ft-menu ul li::after {width: 20px; top: 4px; right: -12px;}
+.ft-menu ul li a {font-size: 13px;}
+.menu-row-fixed {position: static; padding: 0; width:100%;}
+.menu-row-fixed .row {margin: 0 -15px;}
+.rank-options {width: 49.5%; margin-left: 1%; margin-right: 0;}
+.rank-options:nth-child(2n) {margin-left: 0;}
+.view-row {width: 100%; margin: 0 0 5px;}
+.menu-row .container {width: 100%;}
+.rank-options ul li {margin-right: 10px;}
+.rank-options ul li a {font-size: 15px;}
+.navbar-toggle {display: block;}
+.menu-lt {width: auto; display: inline-block; position: fixed; top: 2px; left: 0px; z-index: 99; }
+.menu-lt .navbar { min-height: inherit; }
+.menu-rt {width: 60%;}
+.menu-rt ul li a {font-size: 16px;}
+.attack-menu ul li span {width: 100%;}
+.progress {width: 100%;}
+/** slide menu css **/
+#bs-example-navbar-collapse-1 {position: fixed; width: 300px; left: -305px; top: 0; min-height: 100%; overflow: inherit; border: none; background: rgba(0, 0, 0, 0.92); display: block !important; padding: 0; transition: all 0.3s ease-in-out 0s; -ms-transition: all 0.3s ease-in-out 0s; -o-transition: all 0.3s ease-in-out 0s; -moz-transition: all 0.3s ease-in-out 0s; -webkit-transition: all 0.3s ease-in-out 0s;box-shadow: 0 0 9px 2px rgba(255, 255, 255, 0.2); z-index: 99;}
+#bs-example-navbar-collapse-1.main-menu-open {left: 0;}
+.navbar-collapse .nav li {padding: 0; width: 100%; text-align: left;}
+.navbar-collapse .nav li:last-child {border-bottom: none;}
+.navbar-collapse .nav li:first-child {padding-left: 0;}
+.navbar-collapse .nav li a {font-size: 20px;  border-bottom: 1px solid rgba(255, 255, 255, 0.1);}
+.menu-close {float: right; margin: 15px 15px 15px 0; display: block;}
+.menu-close img {width: 22px; }
+.navbar-toggle {margin: 0; background: transparent; width: 100%; border: none; padding: 12px 10px;}
+.navbar-toggle:hover, .navbar-toggle:focus {background: transparent !important;}
+.navbar-default .navbar-toggle .icon-bar {background: #fff;}
+.sr-only {position: static; float: left; overflow: inherit; float:left; width: 200px; color: #fff; margin: 0; height: auto; text-align: left; font-size: 18px; display: none;}
+.icon-bar-main {float: right; margin-top: 0px;}
+.navbar-header {width: 100%;}
+/** slide menu css **/
+.top-menu-row { display:none; }
+.acnt-rt-blk ul li { margin-left:4px; }
+.welcome-section ul.tabs > li { padding:13px 5px 10px; font-size:1.6vw; }
+.welcome-video > img { max-width:60%; }
+.cmn-hdr { font-size:16px;}
+.tab-content.main-tab-part { height:auto;}
+.menu-row.menu-row-fixed + .holder-div { height:inherit; }
+.fs-block{ left:0px;}
+.video-player{ left:42%;}
+.welcome-tab{ overflow:hidden;}
+.tab_container.main-tab-part { min-height: auto; }
+.task-txt-part a { font-size:20px;}
+.game-guides-rules.earn-free-turns span { font-size:18px;}
+.game-guides-rules .task-id { font-size:16px !important;}
+.new-user-img-part img { width:100%; }
+.new-user-txt-part { width:100%;}
+.new-user-txt-part p { font-size:14px; }
+.new-user-txt-part a { font-size:14px;}
+.login-box-body{margin:0 auto}
+.game-screenshot .owl-carousel{width:80%; max-width:600px}
+.login-top-part{margin-top:0;}
+.ft-menu-new ul li::after {width: 20px; right: -11px;}
+.ft-menu-new ul li{padding:0 10px;}
+.top-logo{height:180px; position:relative; z-index:-1}
+.signup-box-body.login-box-body{width:100%; margin-top:0px;}
+.signup-cntnt{margin-top:0px;}
+.top-links p { margin-top:10px; }
+.login-rgt-part{margin:70px 0 30px;}
+.login-box-body{background-repeat:repeat; min-height:390px;}
+.login-btn{margin-top:0px;}
+.login-page-rgt-section .login-btn { margin-top:25px; }
+.forget-link{margin-top:15px;}
+.ft-menu-new{margin-top: 15px;margin-bottom: 0px; float: left;}
+.social-btns-new{text-align:center}
+#ft-new .container::before{right:0}
+.top-logo.module.parallax.parallax-1 { display: inline-block; background-size: 250px; padding: 200px 0 0px; width:35%;}
+.login-page-lft-section .top-logo.module.parallax.parallax-1 { width: 100%; padding: 270px 0 0px; }
+.module.parallax{background-position:inherit !important}
+.signup-page-section .mafiatxt-logo { left: 0; top:10px; margin:0 auto; text-align:center; width: 100%; }
+.signup-page-section .top-links { width:65%; margin-top: 100px; }
+.login-box-body .mafiatxt-logo { left:0; }
+.login-page-lft-section .signup-cntnt  { width: 100%; text-align: center; margin-left: 0; margin-top:0;}
+.gun-fire.login-fire { top: 0;left: 132px; }
+.login-page-rgt-section .login-box-body .mafiatxt-logo img {max-width: 85%;}
+.login-box-body .mafiatxt-logo { top:-110px; }
+.login-page-rgt-section .login-box-body { width:100%; min-height: 350px;}
+.login-rgt-part.login-page-rgt-section { margin: 100px 0 30px; }
+.login-page-lft-section .signup-cntnt p { text-align: center; font-size: 13px; }
+.signup-btn { width:100%;margin-top: 5px; }
+.signup-page-section .gun-fire { top:0; left:130px; }
+.login-lft-part.login-page-lft-section { min-height: inherit;}
+.login-box-body .mafiatxt-logo img { max-width: 43%;} 
+#ft-new { height:inherit; background-repeat:repeat-y; }
+.bottom-hdr { font-size: 60px; line-height:60px; }
+.collect-info h3 { font-size:16px; }
+.collect-info img { width:85px; }
+.clct-inner-bg-part { background-position:-130px 0; min-height:inherit; }
+.clct-inner-bg-part.produce-inner-bg { background-position: -60px 0;min-height: inherit; }
+.clct-inner-bg-part.hire-inner-bg { background-position:-110px 0; }
+.collect-info span { font-size:13px; }
+.rght-img-part { display:none;}
+.attack-count-part span {font-size: 15px;}
+.defence-image-section ul li { width:32%; margin-right:0; }
+.operative-lft-part .defence-image-section ul li:nth-child(3n){ margin-right:0;}
+.operative-lft-part { width: 48%; }
+.operative-rgt-part { width:100%; padding-right:0; margin-top:15px; text-align:left; }
+.hire-rgt-part input[type="radio"]:not(old):checked + label > span > span::before { width: 22px;height: 22px; background-size: 15px; }
+.hire-rgt-part input[type="radio"]:not(old) + label > span { width: 30px;height: 30px; }
+.travel-cost-lft-part { width: 65%; }
+.travel-cost-rgt-part { width: 35%; }
+.travel-inner-hdr { padding-left:10px; }
+.travel-count-part { padding:20px 10px; }
+.total-cost-lft-part span, .total-cost-rgt-part span { font-size:18px; }
+.total-cost-lft-part, .total-cost-rgt-part { padding:0 10px; }
+.top-hdr-sec span { font-size:20px; }
+.top-hdr-sec p { font-size:14px; }
+.travel-btm-row { width:100%; }
+.gototop.gun-img { right:0; }
+.blck-mrkt-innertop-part ul li:nth-child(even) { margin-right:0; }
+.blck-mrkt-innertop-part ul li:nth-child(odd) { margin-left:0; }
+.blck-mrkt-innertop-part ul li { margin-bottom:15px; }
+.weapon-sec .blck-mrkt-innertop-part { padding:10px 0; }
+.black-market-inner-row.weapon-sec { margin:10px auto; }
+.black-market-inner-row { margin:15px auto; }
+.blck-mrkt-innertop-part { padding:15px 0; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > td, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > td, .global-tbl-sec .attack-data .table-bordered > thead > tr > td { font-size:14px; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > th, .global-tbl-sec .attack-data .table-bordered > thead > tr > th, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > th { font-size:14px; }
+.top-travel-banner-sec i.gun-img { right:0; }
+.gun-fire.black-mrket-fire { right:182px; }
+.mafiasmoke.black-mrkt-smoke { left: 37%; }
+.count { display: none;}
+.family-tbl-sec .user-name { padding-left: 0;}
+.clct-inner-bg-part.family-inner-bg { background-position:-160px -40px; }
+.collect-section.family-section { min-height:auro; }
+.family-top-rgt-part { margin-top:75px; }
+.tmb-red-txt { font-size:22px; }
+.rankd-txt { font-size: 12px; margin-bottom: 7px;}
+.attack-data.union-data .table-bordered > tbody > tr > td, .attack-data.union-data .table-bordered > tfoot > tr > td, .attack-data.union-data .table-bordered > thead > tr > td { font-size:14px; }
+.union-data .user-name { font-size: 14px;  vertical-align: top;}
+.star-img { padding-left: 2px; }
+.star-img img { width: 15px; }
+.union-info span { font-size: 16px; }
+.prize-table-data .user-name { padding-left: 0; font-size: 14px; overflow: hidden; white-space: nowrap; display: inline-block; width: 135px; text-overflow: ellipsis;}
+.top-travel-banner-sec.award-banner-sec { background-position:center top; }
+.mafisos-section.global-sec.awards-table-data { margin-top: -100px;}
+.award-main-sec .attack-data .table-bordered > tbody > tr > td, .award-main-sec .attack-data .table-bordered > tfoot > tr > td, .award-main-sec .attack-data .table-bordered > thead > tr > td { font-size:13px; }
+.level-sec ul li { width:33%; }
+.welcome-section.my-level-section ul.tabs > li { font-size:16px; }
+.driveby-section
+.collect-section.driveby-section.expbusi-section{background-size:cover; background-position:left bottom}
+.collect-section.driveby-section.expbusi-section:before{background:rgba(0,0,0,0.6); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%}
+
+.collect-section.driveby-section.headquainv-section{background-size:cover; background-position:left bottom}
+.collect-section.driveby-section.headquainv-section:before{background:rgba(0,0,0,0.6); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%}
+
+.collect-section.driveby-section.attackarmory-section{background-size:cover}
+.collect-section.driveby-section.attackarmory-section:before{background:rgba(0,0,0,0.6); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%}
+
+.collect-section.driveby-section.druglab-section{background-size:cover}
+.collect-section.driveby-section.druglab-section:before{background:rgba(0,0,0,0.6); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%}
+
+.collect-section.driveby-section{min-height:920px; overflow:hidden; background-size:cover}
+.collect-section.driveby-section:before{background:rgba(0,0,0,0.6); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%}
+
+
+.drive-mdl-part{min-height:350px}
+.used-row{width:46%; margin:0 2% 2%; float:left; text-align:left; position:relative; z-index:9}
+.first-car{left:-150px;}
+.fourth-car{left:210px;}
+.second-car{right:-260px;}
+.third-car{right:120px;}
+.first-sec{max-width:182px;}
+.vs-sec{width:45%;}
+.vs-sec .capguy{margin:0 auto}
+.first-sec.lose-sec{ float:right}
+.armory-section{display:none;}
+
+
+.collect-section.user-sec:before{display:none}
+.user-sec2 .user-level{border:0px !important;}
+.user-sec2 .user-desc-top{border-left:1px solid #444; padding-left:15px; padding-top:0px; margin-top:0px; padding-bottom:30px;}
+.user-desc-top-left,
+.user-desc-top-right{width:100%;background:none; padding-left: 30px; min-height:inherit !important}
+.user-desc-top-left{background:url(../images/user-banner-right.png) no-repeat right top 20px}
+
+.contract-tabs.welcome-section ul.tabs > li{min-width:inherit}
+.cont-list-box{background-size:100% auto }
+
+.bottom-bnkbox-sec{width:90%; margin:0 auto}
+.bank-box-list .switch-btn.collect-btn{width:100%; margin-bottom:10px}
+.bottom-bnkbox-sec .form-group{width:100% !important;}
+.bottom-bnkbox-sec .form-group input{min-width:100%}
+.bank-btm-sec.collect-section{min-height:600px;}
+.deposite-btn,
+.whithdrw-btn{width:90%; margin:0 auto}
+.first-plane { left:0; }
+.second-plane { left: 60px;top: 0; }
+.third-plane { top: 0;right: 0; }
+.plan-fire { width:124px; top: 53px;right: 62px; }
+.collect-section.mafiaattack-section {padding:0 25px;}
+.tab_container.mylevel-tab-part.mail-box-tab-part { border-top:1px solid #444; }
+.vs-animat { margin-left:40px; }
+.firesecond { right: 210px;top: 360px; }
+.prise-banner-sec .mafiasmoke.prizesmoke { left: 44.6%; }
+.back-btn .cmn-cost-btn { line-height:40px; }
+.family-top-rgt-part.family-img-part .tmb-red-txt { font-size:20px; }
+.family-img-part .found-part span { font-size:14px; width: auto; line-height: 22px; }
+.family-img-part .found-part em { font-size:14px; }
+.family-user-img-sec { width: 100%; }
+.family-img-part .family-data { width: 57%; }
+.bulb-img, .bulbsecond-img { display:none; }
+.operative-lft-part { width:100%; }
+.defence-lft-part { margin-top:15px; }
+.defence-image-section { margin-top:0; }
+.hire-inner-bg .topgunsmoke { left:36px; top: 22px; }
+.produce-inner-bg .collect-info h3 { min-height: 35px;}
+.produce-inner-bg .topgunsmoke.hiresmoke { left:60px; }
+.sparkle, .sparklesecond { display:none; }
+
+.signup-page-section.faq-page-section .top-links {margin-top: 15px;}
+.faq-page-section .site-logo { margin-top:15px; }
+.faq-box-body .btn.btn-raised { white-space:inherit; padding-right: 45px;position: relative; line-height: 20px; }
+.faq-box-body .panel-heading i { margin-top:0; position: absolute; right: 13px; top: 12px; }
+.game-guides-rules.screenshot-sec { padding-top:0; }
+.faq-hdr h3 { font-size:40px; }
+.video-sec iframe { width:100% !important; }
+.goldshine { left:65px;} 
+.moneydown { left:42px; }
+.moneyincrse { left:55px; }
+.online-sec .mafiso-top-part {width: 100%; text-align:center;}
+.online-sec .mafiso-drpdwn { width:30%; text-align:left;}
+.user2-top-part .other-links ul li {padding: 7px;}
+.user2-top-part .other-links ul li a {font-size: 13px;}
+.user-lft-row {width: 41%; margin-top: 15px;}
+.user-lft-row p { font-size:14px; line-height:20px; }
+.user2-top-part .user-status {width: 100%; margin-top: 7px;}
+.top-user-sec.top-user2-sec .user2-top-part .extra-text { font-size:14px; }
+.user2-top-part .other-links {width: 100%;}
+.user2-top-part .user-status ul { width:67%; }
+.clct-inner-bg-part.union-inner-bg { background-position:-220px 0; }
+.water { display: none; }
+.collect-section.family-section.main-family-page { width:100%; min-height: auto;}
+.main-family-page .family-img-part .family-data { width:47%; padding:  15px; }
+.main-family-page .family-user-img-sec {width: 50%; }
+.game-guide-accordion .panel-body {padding-right: 15px;}
+.video-thumb-blk {height: 95px;}
+.mafiso-top-part.family-rank-part { width: 45%;}
+.new-family::before, .new-family::after { display:none; }
+.welcome-top-part { width: 59%; }
+.game-top-link ul li a { font-size:16px; }
+.play-table-row .user-name {font-size: 12px;padding-left: 0;}
+.user-dtl-sec .user-award-top .collect-section.user-awrd-colln { margin-top:25px; }
+.user-credit .top-hdr-sec span { font-size:18px; }
+.credit-cntnt span { font-size:18px; margin: 10px 0; }
+.credit-cntnt h3 { font-size:18px; }
+.credit-cntnt .star-img img {width: 25px;}
+.credit-cntnt p { font-size:15px; line-height: 26px;}
+.credit-mdl-cntnt { background-size:cover; background-position: center bottom; }
+.user-awrd-sec h3 { font-size: 13px; }
+.credit-lft-bg { background-position: -100px 0; }
+.convert-part p {font-size: 15px; }
+.credit-rgt-part {width: 100%;display: inline-block;padding-right: 15px;}
+.credit-btn-part .switch-btn.collect-btn { min-width:inherit; }
+.buy-row p { font-size: 15px;margin-bottom: 10px; line-height: 22px; }
+.buy-row i img { width:74px; }
+.buy-rgt-part { margin-top:0; }
+.buy-rgt-part ul li { font-size: 11px;margin-bottom: 4px; }
+.buy-row .buy-lft-part i img { width: 120px; }
+.play-info.my-acnt-lft-info .block-peal-row { padding-left:0 !important; margin-bottom:7px; }
+.play-info.my-acnt-lft-info .block-peal-row .mafiso-hd { width:100%;position: initial; margin-bottom: 0;}
+.chng-pswd-row .clct-payment-part span { width:100%; margin:0 0 10px 0;}
+.chng-pswd-row .clct-payment-part .login-form { width:100%; }
+.respns-non { display:none !important; }
+.verify-row p {font-size: 13px; line-height: 17px; margin-bottom: 5px;}
+.verify-row { margin-top:7px;}
+.play-info.my-acnt-lft-info, .play-info.my-acnt-rgt-info { margin-top:0; min-height: 420px; }
+.acnt-rt-blk ul li a {line-height: 34px;}
+.acnt-rt-blk ul li a.switch-btn {line-height: 24px;}
+.acnt-rt-blk ul li a i {margin-top: 6px;}
+.top-acnt-row .credits-blk span { line-height:34px; }
+.top-acnt-row .credits-blk { margin-top:0; }
+.acnt-rt-blk ul li a i.logout-icon {margin-top: 8px;}
+.trade-sec { margin-top:10px; }
+.welcome-section.my-level-section ul.tabs > li{ font-size:13px; }
+.contract-tabs.welcome-section .tab_container.main-tab-part { padding:0 15px; }
+.play-table-row .count { display:block; }
+.play-table-row .user-name img { width:18px; margin-right: 0px; vertical-align: bottom;}
+.collect-section.driveby-section.expbusi-section { background-position:center bottom; }
+.login-lft-part .how-to-video a img { width: 100%;}
+.play-info.my-acnt-lft-info{ min-height:inherit;}
+.clct-payment-part .my-account-all-btn{ margin-left:0;}
+.play-info.my-acnt-rgt-info { margin-top: 0; min-height: 390px; margin-bottom:10px;}
+.chng-pswd-row .clct-payment-part { margin-top: 10px;}
+.chng-pswd-row .cstm-chckbox-part .myacc-rdo-hading{ font-size:14px; color:#fff;}
+.credit-btn-part{ margin-top:10px;}
+.credit-tbl-part .attack-data .table-bordered > tbody > tr > td em{ display:inline-block; margin-right:10px;}
+.mafiso-top-part{ width:56%;}
+.blockpeal-rt .block-peal-row.jackpot-mob {  display: none;}
+.top-acnt-row .credits-blk span{ margin-left:5px;}
+.top-acnt-row .credits-blk .switch-btn span{ line-height:24px;}
+
+
+.clct-inner-bg-part.travel-inner-bg .mafiasmoke, .clct-inner-bg-part.travel-inner-bg .gototop img { display: none !important; }
+.travel-cost-lft-part { width: 50%; }
+.travel-cost-rgt-part { width: 50%; }
+.travel-count-part ul li { margin: 5px 0; }
+.travel-count-part {  min-height: 145px; }
+
+.black-market-inner-row { padding: 0 20px; }
+.black-market-leftbg .black-market-inner-row { margin: 47px 0; }
+.black-market-leftbg { background-position: left -150px top; }
+.protect-prgrm1 {background: #8c8788;border-radius:4px;padding: 10px;color: white; width: 225px;margin: 0px auto; float:left;}
+
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new { padding-top: 100px; padding-bottom: 20px;  }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new ul.mafia_mafia_mafia_mafia_mafia_mafia_footer-link li a { font-size: 19px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new h4.mafia_mafia_mafia_mafia_mafia_mafia_footer-heading { font-size: 25px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new .mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon { padding: 20px 0; }
+.mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon img { width: 50px; }
+a.buycredit-btn { margin-left: 0; margin-right: 0; }
+.register-email-cnt { font-size: 15px; }
+.top-logo-new img { width: 150px; margin-left: 10px; }
+a.switchround-btn { font-size: 19px; padding: 8px 18px; }
+.rank-options.ranks-row:before, .rank-options.find-row:before, .rank-options.view-row:after, .rank-options.ranks-row:after { display: none; }
+.rank-options, .rank-options:last-child { border-radius: 5px; }
+.headernew-timerbg {width: 60%; padding: 18px 10px;}
+.site-logo img { width: 250px; }
+.jackpot-lt { width:  62%; }
+.jackpot-rt span { font-size: 18px; line-height:  normal;}
+.jackpot-label {font-size: 14px; line-height:  normal; }
+.mafioso-right {  width: 75%;}
+.menu-rt ul li { margin-right: 10px; }
+.menu-rt ul li a span { margin-left: 6px; }
+.chat-section a { padding: 5px 7px; }
+.chat-section img {margin-right: 3px; width: 15px; vertical-align: top; margin-top: 3px; }
+.logo-row { margin-bottom: 0; }
+header.header-new .timer-cnt { width: auto; float: none;  clear: both; }
+header.header-new .timear-area { border-left: none; padding: 0; }
+.rank-row { margin-top: 0; }
+header.header-new .topright-links a { font-size: 12px; margin-left: 5px; }
+header.header-new .logo-timer-cnt { width: 32.5%; min-height: 135px; }
+header.header-new .header-cap-logo { width: 33%; }
+header.header-new .publicround-cnt { width: 100%; text-align: center; padding-top: 0px; }
+header.header-new .publicround-btn { margin-bottom: 5px; width:  auto; height: auto; line-height: inherit; padding: 7px; font-size:  12px; float: left; }
+header.header-new .publicround-cnt em { float: right; font-size: 24px; }
+header.header-new .switchround-btn { text-align: left; top: auto; bottom: -39px; }
+header.header-new .jackpot-amount-cnt { width: 25%; padding: 40px 10px 10px; min-height: 135px; font-size: 26px; }
+header.header-new .jackpot-amount-cnt span { font-size: 28px; }
+.header-mafioso-level { font-size:  13px; }
+header.header-new .mafioso-networth-cnt { width: 41.5%; }
+.mafioso-action ul li { width: 50%; margin: 0 0 2px 0; }
+header.header-new .top-credit-cnt { padding-top: 10px; }
+ul.mafia_mafia_mafia_mafia_mafia_mafia_footerlinks li { margin: 0 10px; }
+ul.mafia_mafia_mafia_mafia_mafia_mafia_footerlinks li a { font-size:  14px; }
+.header-mafioso-cnt1 span, .header-mafioso-cnt2 span, .header-mafioso-cnt3 span { font-size: 13px; }
+.playvideo-img-big { max-width: 100%; }
+.howtoplay-hd em { font-size: 30px; } 
+.select-txt { font-size: 30px; }
+.play-round-btn { width: 150px; height: 40px; line-height: 40px; font-size: 25px; }
+.play-round-amount { font-size: 35px; }
+.round-play-cnt3 a.playnow-btn-new { font-size: 35px; min-width: 160px;}
+.round-play-cnt2 { width: 35%; }
+.round-play-cnt3 { width: 33%; padding-left: 2%; }
+.play-time-counter ul li { padding: 0 3px; font-size: 45px; }
+.round-play-cnt3 .login-form { width: 100%; }
+.is-countdown { font-size: 40px !important;}
+label.label-cnt { width: 47%; font-size: 12px; }
+header.header-new .mafioso-action { padding-top: 12px;}
+.attack-menu ul li { padding: 5px; min-height: 80px; }
+ul.round-counter { margin-top: 5px; }
+.top-day-timer, .top-day-timer em { font-size: 14px; }
+.top-day-count { font-size: 30px; }
+.turboround-btn { margin-left: 5px; padding: 0px 5px; width: 114px; font-size: 11px; height: auto; line-height: normal; }
+.turboround-btn span { font-size: 15px; }
+.navigation-menu-mobile { display: block; text-align: center; }
+.header-mafioso-cnt1 span a { font-size: 12px; }
+header.header-new .top-credit-cnt a.header-buycredit-btn { font-size: 14px; padding: 5px; }
+.home-listing-single .home-listing-inn { padding-bottom: 30px; }
+.home-listing-grid #owl-carousel .home-listing-inn { min-height: 310px; }
+.home-blog-forum-bottspace { margin-bottom: 0; }
+.family_top_cls { width: 36%;}
+.fm_class_two { width:  56% !important; }
+.fm_class_one, .fm_class_three {
+    margin-left: 30px;
+}
+.mafioso-action.mail_content.family_top_noti ul li { width: auto; }
+.family_top_noti { margin:  0; }
+.family_top_noti button { margin:  5px; } 
+.invite-banner {
+    margin-bottom: 15px;
+}
+}
+
+
+@media screen and (min-width:200px) and (max-width:767px) {
+.navbar-collapse.fr.collapse.in{ width:100% !important; height:256px !important; margin-left:0px; padding:0; margin-right:0px;}
+.navbar-collapse.fr.collapsing{ width:100% !important;padding:0; margin-right:0px;}
+#bs-example-navbar-collapse-1{margin: 0;width: 100%;overflow-y: auto;}
+.navbar-home-responsive .navbar-brand{ width:auto;}
+.resp-logo {display: block; width: 50px !important; float: left; margin-left: 20px;}
+.web-logo {display: none;}
+.top-acnt-row {padding: 5px 0; text-align: center;}
+.credits-blk {padding: 0; margin: 0;}
+.credits-blk span {font-size: 13px; float: none; display: inline-block; margin:0 7px; line-height: 13px; vertical-align: middle;}
+.credits-blk span.credits-links {margin: 0;}
+.credits-links a {font-size: 13px; line-height: 13px;}
+.acnt-rt-blk {margin-top: 10px; text-align: center; padding: 0; position: relative; z-index: 9;}
+.acnt-rt-blk ul {width: 100%;}
+.acnt-rt-blk ul li {display: inline-block; margin: 0 2px; float: none;}
+.acnt-rt-blk ul li a {font-size: 12px;}
+.acnt-rt-blk ul li a i {     margin-right: 4px;}
+.credits-links a:last-child {padding: 0 0 0 5px;}
+.menu-row-fixed {position: static; top:0px;left: 0px; padding: 0; width: 100%;z-index: 99;}
+.logo-row {background-size: cover; padding: 15px 10px; }
+.jackpot-blk {margin: 0; width: 50%; float: left;}
+.jackpot-lt { width: 100%; padding: 0 0 5px 0; border-right: none; border-bottom: 1px solid #666;}
+.jackpot-rt { width: 100%; font-size: 16px; padding: 0;}
+.jackpot-rt span {display: inline-block; margin-left: 2px;}
+.blockpeal-lt, .blockpeal-rt {width: 50%;}
+.block-peal-row {font-size: 16px; padding-left: 0; word-break: break-all; line-height: 18px; margin-bottom: 5px;}
+.mafiso-hd {position: static; width: 100%; float: left; margin-bottom: 5px;}
+.my-acnt-sec .mafiso-hd {float: none !important;}
+.blockpeal-rt .block-peal-row {padding-left: 0;}
+.menu-rt ul li a span {margin-left: 2px;}
+.blockpeal-rt {margin: 0;}
+.menu-row-fixed .row {margin: 0 -15px;}
+.navbar-fixed-top::after {display: none;}
+.menu-rt {width: 100%; padding: 10px 2px 5px; text-align: center;}
+.menu-rt ul li {float: none; display: inline-block; margin: 0 2px;}
+.menu-rt ul li a {font-size: 14px;}
+.rank-options {width: 100%; margin-top: 5px; padding-left: 55px; margin-right: 0; border-radius: 5px;}
+.rank-options:last-child { border-radius: 5px; }
+.rank-options ul li {margin-right: 8px !important;}
+.rank-options ul li a {font-size: 13px;}
+.rank-hdr {font-size: 13px; width: 50px;}
+.home-listing-inn {padding: 15px 15px 10px; margin-bottom: 15px;}
+.home-listing-img {width: 100%; margin-bottom: 15px;}
+.home-listing-cont {margin: 0; width: 100%;}
+.home-listing-grid .home-listing-cont {margin-top: 0;}
+.home-listing-grid .home-listing-cont p {padding: 0; padding-right: 30px; white-space: initial;}
+.home-listing-grid .go-btn-row {margin-top: 15px;}
+.home-listing-single .home-listing-cont {margin-top: 0;}
+.go-btn-row {margin-top: 5px !important;}
+.home-listing-cont:last-child p {margin-bottom: 0;}
+.home-listing-grid .home-listing-inn {margin-top: 0;}
+.home-listing-cont h2 { margin-top: 5px;}
+ul.newplay-lst-area li { width: 100%; }
+.home-listing-cont h2, .home-listing-cont h2 a {font-size: 17px; text-align: center;}
+.home-listing-cont p {font-size: 14px; line-height: 22px;}
+#ft {background-size: cover; padding: 15px;}
+.ft-menu ul li::after {display: none; }
+.ft-menu ul li {padding: 0 7px 0 5px; margin-bottom: 10px;border-right: 1px solid #999;}
+.ft-menu ul li:last-child {border-right: none;}
+.copyright p {line-height: 20px; text-align: center;}
+.ft-menu {margin-bottom: 5px;}
+.social-btns {text-align: center !important; margin-top: 10px;}
+.blockpeal-blk {width: 100%; margin-top: 10px;}
+.ft-menu ul li a {font-size: 14px;}
+.social-btns .btn {margin: 0 5px; width: 40px; height: 40px;}
+.social-btns .btn i {margin-top: 10px;}
+.sub-msg {float: left; width: 100%; text-align: center !important; margin-bottom: 8px;}
+.sub-msg:last-child {margin-bottom: 0;}
+.site-logo {padding: 0 10px 0 0; width: 50%; float: left; top: 0;}
+.resp-logo {width: 100%;}
+.countdown-amount {font-size: 20px;}
+.countdown-period {font-size: 11px;}
+.public-figure {font-size: 13px; line-height:18px; margin-top: 5px;}
+
+
+/** slide menu css **/
+#bs-example-navbar-collapse-1 {position: fixed; width: 270px; left: -275px; top: 0; min-height: 100%; overflow: inherit; border: none; background: rgba(0, 0, 0, 0.92); display: block !important; padding: 0; transition: all 0.3s ease-in-out 0s; -ms-transition: all 0.3s ease-in-out 0s; -o-transition: all 0.3s ease-in-out 0s; -moz-transition: all 0.3s ease-in-out 0s; -webkit-transition: all 0.3s ease-in-out 0s;box-shadow: 0 0 9px 2px rgba(255, 255, 255, 0.2);}
+#bs-example-navbar-collapse-1.main-menu-open {left: 0; z-index:99; overflow: auto;}
+.navbar-collapse .nav li {padding: 0;}
+.navbar-collapse .nav li:last-child a{border-bottom: none;}
+.navbar-collapse .nav li:first-child {padding-left: 0;}
+.navbar-collapse .nav li a {font-size: 16px; padding: 7px 15px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); line-height: normal;}
+.play-header-new { padding: 0; }
+.menu-close {float: right; margin: 15px 15px 5px 0; display: block;}
+.menu-close img {width: 14px;}
+.navbar-toggle {margin: 0; background: transparent; width: 100%; border: none;}
+.navbar-toggle:hover, .navbar-toggle:focus {background: transparent !important;}
+.navbar-default .navbar-toggle .icon-bar {background: #fff;}
+.sr-only {position: static; float: left; overflow: inherit; float:left; width: 100px; color: #fff; margin: 0; height: auto; text-align: left; font-size: 14px; display:none;}
+.navbar {min-height: 60px;}
+.icon-bar-main {float: left; margin-top: 12px;}
+/** slide menu css **/
+/*.attack-menu ul { width:1170px; }*/
+.attack-menu ul li {width: 112px; min-height: inherit; padding: 5px; }
+.attack-menu ul li small {font-size: 12px;}
+.attack-menu ul li span {font-size: 13px;}
+/*.attack-menu ul li:nth-child(3n+1) {width: 33%; border-left: none;}*/
+.home-listing-single {margin-top: 15px;}
+.navbar-nav.dsktp-non { display:block; margin-top: 35px; }
+div.dsktp-non { display: block; }
+.top-menu-row { position:absolute; left:35px; top:0; }
+.top-menu-row .nav li { display:inline-block; padding:5px 12px;float: left; text-align: center; }
+.top-menu-row .nav li a { font-size:14px; line-height: 24px;}
+.top-menu-row .nav li:first-child { padding-left:10px; }
+.navbar-nav.open-main { display:none; }
+.navbar-toggle .icon-bar { width:25px; }
+.menu-row.menu-row-fixed + .holder-div { height:inherit; }
+.welcome-section .nav-tabs > li { width:100%; margin-bottom:10px; }
+.cmn-hdr { font-size:16px;}
+.welcome-video > img { max-width:100%; }
+.tab-content.main-tab-part { height:auto; }
+.welcome-section { margin-top:10px;}
+.toggle-row { width:100%; display:inline-block; background:#121212; padding:8px; margin-bottom:10px; cursor:pointer; margin-bottom: 0; border-radius: 5px; margin-top: 5px;}
+.toggle-icon { color: #fff;display: inline-block;font-size: 14px;vertical-align: middle; width:100%; }
+.toggle-icon:hover, .toggle-icon:focus { color:#fff; }
+.down-arrow { vertical-align:top; line-height:18px; margin-left:3px; float:right; transition:ease-in-out 0.5s; }
+.down-arrow-rotate { transform:rotate(180deg); }
+.view-part { display:none; }
+.down-arrow > img { width:12px; vertical-align: top;  margin-top: 5px;}
+.fs-block{ left:0px;}
+.video-player{ left:38%;}
+.welcome-tab{ overflow:hidden;}
+.tripple-slider-section .fs-navigation{left:-80px; margin:0 auto; right:0; width:62px;}
+.tab_drawer_heading { width:100%; text-align:center;  background: #1d1d1d; font-size:18px; color:#696969; font-family: 'hindsemibold'; border: none; border-bottom: 2px solid transparent; position:relative; padding: 13px 15px 12px; height: initial; line-height: 24px; }
+.tab_drawer_heading.d_active, .tab_drawer_heading:hover, .tab_drawer_heading:focus{ background:#111; color:#fff; border-radius:0px; border:none; border-bottom:2px solid #891818; position:relative; }
+.tab_drawer_heading.d_active:after, .tab_drawer_heading:hover:after, .tab_drawer_heading:focus:after{ content:''; background:url(../images/shot-img1.png) no-repeat; width:30px; height:13px; position:absolute; display:inline-block; left: 45%; bottom: -2px; right: 45%;}
+.welcome-tab { width:100%; display:inline-block; padding:25px 0; text-align:center; }
+.tab_container.main-tab-part { min-height:inherit;}
+.new-user-img-part img { width:100%; }
+.new-user-txt-part { width:100%;}
+.new-user-section.marg-btm { margin-bottom:40px;}
+.game-guides-rules.earn-free-turns.earn-free-next-part span { display:block; margin-left:0;}
+
+.login-top-part{margin-top:0;}
+.top-logo{position:relative; }
+.top-logo img{width:100%}
+.signup-cntnt{float:none;margin: 20px auto auto;}
+.login-box-body{margin-right:auto; margin-top:60px; width:100%; max-width:370px;}
+.game-screenshot .owl-nav{display:none}
+#ft-new{height:auto; background-repeat:repeat; background:#151515}
+#ft-new .container:before{right:0px;}
+.social-btns-new{text-align:center; margin-top: 0px;}
+.ft-btm-row {float: left;width: 100%;   text-align: center;}
+.ft-menu-new ul li{display:block; width: 49%; float:left; text-align: left; padding:0px; margin:0 0 15px;}
+.ft-menu-new ul li:after{display:none; }
+.copyright{margin:10px auto auto;  width:90%; text-align:center; padding:0px; float:none}
+.signup-btn{width:auto;margin-top: 0px;}
+.signup-box-body.login-box-body{width:100%}
+.signup-form{width:100%}
+#ft-new { position:inherit; }
+.blck-title h2 { font-size:32px; }
+.top-logo.module.parallax.parallax-1 {display: none;}
+.mafiatxt-logo.module.parallax.parallax-2 { position: initial; padding: 90px 0; width: 100%; background-size: 100% auto;}
+.login-lft-part { min-height:inherit;}
+.module.parallax{background-position:inherit !important}
+.signup-info { padding:0 15px 10px; background: none; }
+.signup-top h2 { font-size: 22px; margin: 0 0 15px; }
+.mafiatxt-logo { position:inherit; width:100%;  height: inherit; text-align:center;}
+.mafiatxt-logo img { max-width:50%; }
+.login-box-body .mafiatxt-logo { left:0px; top:-75px; } 
+.login-icon { margin: -68px auto auto; }
+.login-form { margin-top:0;width: auto; }
+.signup-cntnt p { display:none; }
+.game-screenshot .owl-carousel { width:100%; }
+.signup-box-body.login-box-body { max-width:100%; margin: 50px auto auto; }
+.mafiso-top-part { width:100%; }
+.mafiso-top-part p { display:block; text-align:center; margin-right: 0; }
+.mafiso-drpdwn { width:100%; margin: 5px 0; }
+.mofisos-btn-part span { width:auto; font-size: 23px;}
+.mofisos-btn-part span::before, .mofisos-btn-part span::after { display:none; }
+.colct-rgt-part { width:100%; padding-right: 0; margin: 25px 0; position:relative; z-index:9}
+.clct-inner-bg-part{background-position:left top;min-height: inherit;}
+.collect-section.collect-sect{position:relative}
+.collect-section.collect-sect:before{background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:2}
+.bottom-hdr { position:inherit; bottom: 0;padding-left: 0;text-align: center; font-size: 40px; line-height:40px;display: block; padding-top: 10px; z-index:9}
+.colct-innertop-part ul li { width:50%; margin-bottom: 15px;}
+.collect-section { background-position: bottom center; min-height:inherit;}
+
+/* Added by zarana */
+.support-box .support_form {width: 100% !important; margin-left:0% !important;}
+.support_form .form_title_label {width: 100% !important;}
+.support-box .support-rules{padding: 20px 6px !important;}
+.support_form .sub_btn{margin-left: 27% !important;}
+.support_form .input_class{min-width: 100% !important;}
+/* complete */
+
+.clct-payment-part span {  display:inline-block; }
+.switch-btn.collect-btn { margin-top:0px;  min-width:70px; height:35px; line-height:35px;  }
+.collect-info h3 { font-size:13px; margin:5px 0; }
+.collect-info img { /*width:60px;*/ }
+.clct-inner-bg-part.produce-inner-bg {  background-position:0 0; }
+.colct-rgt-part{ position:relative; z-index:5}
+.collect-section.produce-section{position:relative}
+.collect-section.produce-section:before{background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:2}z
+.select-txt { font-size:28px; }
+.select-round-sec { margin:30px 0; }
+.collect-section.past-section { min-height:inherit; }
+.clct-inner-bg-part.hire-inner-bg { background-position:left -60px bottom -50px; min-height:inherit;}
+.colct-innertop-part{ position:relative; z-index:5}
+.collect-section.hire-section{position:relative}
+.collect-section.hire-section:before {background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:2}
+.clct-inner-bg-part.travel-inner-bg:before{background:rgba(0,0,0,0.8); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:2}
+.hire-rgt-part .collect-info{min-height:inherit;}
+.collect-info { min-height: inherit; }
+.clct-payment-part{margin-top:10px;}
+.operative-lft-part { width:100%; }
+.operative-rgt-part { width:100%; text-align:center; }
+.rght-img-part { display:none;}
+.bodyguard-info span { width: 80px;}
+.hire-rgt-part .clct-payment-part { margin-top: 0; }
+.hire-rgt-part .clct-payment-part span { display:inline-block; }
+.hire-rgt-part .clct-payment-part .login-form { width:65px; }
+.hire-rgt-part input[type="radio"]:not(old):checked + label > span > span::before { width: 17px;height: 17px; background-size: 15px; }
+.hire-rgt-part input[type="radio"]:not(old) + label > span { width: 25px;height: 25px; }
+.colct-rgt-part.hire-rgt-part { margin-top: 25px;}
+.defence-lft-part { margin-top: 15px; }
+.back-btn { right:10px; }
+.top-travel-banner-sec i img { max-width:100%; }
+.top-travel-banner-sec i  { left:0;}
+.top-hdr-sec span { font-size:16px; }
+.top-hdr-sec p { font-size: 13px; }
+.travel-cost-lft-part { width:100%; }
+.travel-inner-hdr { padding-left:10px; }
+.travel-count-part { padding:5px; }
+.total-cost-row { margin-top: 5px; }
+.travel-count-part ul li { width:48%; margin-right:2%; margin-bottom: 3px;}
+.travel-count-part ul li:nth-child(2n) { margin-right:0; }
+.travel-cost-rgt-part { width:100%; }
+.travel-cost-lft-part .travel-count-part { border-bottom:none; }
+.total-cost-lft-part { width:100%; }
+.total-cost-rgt-part { width:100%; text-align:center; }
+.total-cost-lft-part { width:100%; text-align:center; }
+.total-cost-rgt-part span, .total-cost-lft-part span { font-size: 18px; }
+.travel-btm-row { width:100%; }
+.cmn-cost-btn { padding:0 7px; font-size:12px; }
+.menu-bar { display:block; width: 50%;text-align: right; float:right; }
+.mafiatxt-logo.signup-logo { width: 50%; float: left; }
+.mafiatxt-logo.signup-logo img { max-width:100%; }
+.menu-bar .cmn-cost-btn { margin-right:0; margin-bottom:0; line-height: 38px;}
+.top-links { display:none; }
+.gototop.gun-img  { display:none !important; }
+.collect-section.black-market-btm-sec { padding:0 15px; }
+.blck-mrkt-innertop-part ul li:first-child { margin-right:10px; }
+.blck-mrkt-innertop-part ul li { width:44%; float:left; margin-bottom: 15px; }
+.blck-mrkt-innertop-part ul li:nth-child(2n) { margin-right:0; }
+.blck-mrkt-innertop-part ul li:nth-child(3n) { margin-left:0; }
+.black-market-inner-row { margin:10px auto; }
+.blck-mrkt-innertop-part { padding:10px 0 0; }
+.trade-sec .login-form { width:100%; }
+.market-info h3 { font-size:13px; }
+.select-round-sec .user-name,.global-tbl-sec .user-name { padding-left:0; font-size:14px; }
+.mafisos-section.global-sec.prize-table-data .user-name {
+    word-break: break-all;
+}
+.global-tbl-sec .footable.breakpoint > tbody > tr > td > span.footable-toggle { padding-right:2px; }
+.mafiasmoke.black-mrkt-smoke { }
+.top-travel-banner-sec.black-mrket-banner{width:100%}
+.top-travel-banner-sec{width:495px}
+.mafiasmoke {left:88px;}
+.count { display: none;}
+.family-top-rgt-part { margin-top:0; padding:15px; }
+.clct-inner-bg-part.family-inner-bg {  min-height: inherit; background-position:center center}
+.family-top-rgt-part{ position:relative; z-index:5}
+.collect-section.family-section{position:relative}
+.collect-section.family-section:before{/*background:rgba(0,0,0,0.8);*/ width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:2}
+.tmb-list-row ul li { width:49%; margin-bottom: 15px;}
+.tmb-red-txt { font-size:24px; }
+.family-tbl-sec .red-txt { text-align:left; padding-right:0; }
+.family-top-rgt-part.union-top-rgt-part { margin-top:0; }
+.rankd-txt { margin-bottom:10px; }
+.tmb-list-row.state-list-row ul li:last-child { margin-bottom:0; }
+.union-info span { font-size: 16px; }
+.star-img { padding-left: 0;}
+.family-tbl-sec .user-name { padding-left: 6px;}
+.union-data .user-name { padding-left: 5px;font-size:13px; }
+.attack-data.union-data .table-bordered > tbody > tr > td, .attack-data.union-data .table-bordered > tfoot > tr > td, .attack-data.union-data .table-bordered > thead > tr > td { font-size:15px; }
+.global-btm-part .clct-payment-part { width:100%; text-align:center; }
+.next-prev-row { width:100%; text-align:center; margin-top:10px; }
+.global-btm-part .clct-payment-part span { float: none; margin-top: 10px; display: inline-block;}
+.global-btm-part .clct-payment-part .login-form { float: none; text-align: center;}
+.global-btm-part .cmn-cost-btn { overflow: initial; }
+.top-txt.mafia-txt { top: 180px; left: 0; right: 0; margin: 0 auto;}
+.top-travel-banner-sec.prise-banner-sec { margin-bottom: 20px;}
+.prize-tbl-btm-txt {  margin-bottom:0px;}
+.award-main-sec .attack-data .table-bordered > tbody > tr > td, .award-main-sec .attack-data .table-bordered > tfoot > tr > td, .award-main-sec .attack-data .table-bordered > thead > tr > td { font-size:13px; }
+.award-main-sec .union-info span { font-size:14x; }
+.top-travel-banner-sec.award-banner-sec { background-position: center top; width:100%; background-size: 500px;min-height: 250px; }
+.mafisos-section.global-sec.awards-table-data { margin-top:0; }
+.award-lft-part { margin-bottom:15px; }
+.award-lft-part.killer-part { margin-top: 10px; }
+.level-sec ul li { width:48%; margin-right:2%;}
+.level-sec { padding-left:0; margin-top:80px; }
+.level-sec.level-right-part { padding-right:0; margin-top: 25px; }
+.welcome-section.my-level-section ul.tabs {display:none; }
+
+.collect-section.driveby-section.expbusi-section{background-size:cover; background-position:left bottom;padding: 15px 25px 0;}
+.collect-section.driveby-section.headquainv-section{background-size:cover; background-position:left -220px bottom -120px;padding: 15px 25px 0;z-index: 90;}
+
+.collect-section.driveby-section.attackarmory-section{background-size:cover;}
+.collect-section.driveby-section.attackarmory-section{position:relative; min-height: inherit;padding: 15px 15px 0;}
+.collect-section.driveby-section.attackarmory-section:before{background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:9}
+.rank-options ul li span { font-size:12px; }
+.collect-section.driveby-section.druglab-section{background-size:cover;padding: 15px 25px 0;}
+.collect-section.driveby-section.druglab-section{position:relative;}
+.collect-section.driveby-section.druglab-section:before{background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:9}
+
+.collect-section.driveby-section{min-height:1100px; overflow:hidden; background-size:cover}
+.collect-section.driveby-section{position:relative;}
+.collect-section.driveby-section:before{background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:9}
+
+.expbusi-animation{width:320px;}
+.expbusi-hand{top:-70px !important; background-repeat:no-repeat; background-size:100% auto; left:0; right:0; margin:0 auto }
+
+.win-sec {width: 100%;float: left;  margin: 5px auto auto;  max-width: 550px;float: none;}
+.drive-mdl-part{min-height:350px}
+.used-row{width:100%; margin:0 0 2%; float:left; text-align:left; position:relative; z-index:9}
+.first-car{left:-280px; bottom:-50px}
+.fourth-car{left:80px; bottom:110px}
+.second-car{right:-340px; bottom:-50px}
+.third-car{right:-50px; bottom:70px}
+.armory-section{display:none;}
+.mobile-title .top-awrd-banner-sec{text-align:center}
+.mobile-title .top-awrd-banner-sec .top-txt{font-size:8vw; background: -webkit-linear-gradient(#efefef, #696969); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'bebas_neuebold'; text-transform: uppercase;  }
+.mobile-title{display:block ;position: absolute;left: 0;right: 0;margin-top: -20px;}
+.vs-sec .capguy{display:none }
+.drive-mdl-part .drug-lab-mdl-part span{font-size:7vw}
+.drive-mdl-part .drug-lab-mdl-part h3{font-size:4vw}
+.first-sec p{font-size:3vw}
+.drive-mdl-part{position:relative; z-index:98}
+.user-awrd-sec ul{width:100%}
+
+
+.user-sec2 .user-level{border:0px !important; width:35%}
+.user-sec2 .user-desc-top{border-left:1px solid #444; padding-left:15px; padding-top:0px; margin-top:0px; padding-bottom:30px; width:65%}
+.user-desc-top-left,
+.user-desc-top-right{width:100%;background:none; padding-left:10px; min-height:inherit !important}
+
+.user-status{width:100%}
+.user-status ul li{text-align:center !important;}
+.user-status ul li span{width:100%; display:block; margin-bottom:5px;}
+.other-links ul li{padding-left:15px; padding-right:15px;}
+
+.collect-section.user-sec{min-height:610px; width:100%}
+.collect-section.user-sec.user-sec2{min-height:inherit}
+
+.cont-list-box{background-size:100% auto }
+
+.bottom-bnkbox-sec{width:90%; margin:0 auto}
+.bank-box-list .switch-btn.collect-btn{width:100%; margin-bottom:10px}
+.deposite-btn,
+.whithdrw-btn{width:90%; margin:0 auto}
+.bottom-bnkbox-sec .form-group{width:100% !important;}
+.bottom-bnkbox-sec .form-group input{min-width:100%}
+.bank-btm-sec.collect-section{min-height:660px;}
+
+.contract-tabs.welcome-section ul.tabs > li{min-width:33.33%; float:left;}
+.tab_content{display:block}
+.top-txt{left:0px;}
+.top-bnkbox-sec .col-lg-6{margin-bottom:10px;}
+.user-award-top .collect-section.user-awrd-colln{margin-bottom:30px}
+.user-award-bottom .collect-section.user-awrd-colln{margin-bottom:20px;}
+.top-awrd-banner-sec{margin:10px 0;}
+.drive-mdl-part.attack-plne-part { margin-top: 0; padding: 25px;}
+.plane-row i img { width:65%; }
+.first-plane, .second-plane, .third-plane { display:none;}
+.plan-fire { width:122px; top: 0;right: 0; }
+.collect-section.mafiaattack-section { min-height: 430px; }
+
+/* New Added CSS */
+.mob-res-hide { display: none !important; }
+.credits-blk span { vertical-align: top; margin-top: 5px !important; display: none; }
+.acnt-rt-blk { margin-top: 0; }
+a.switch-btn { margin-top: -6px; }
+.acnt-rt-blk ul { position: absolute; top: -35px; left: auto; right: -5px; z-index: 998; width: auto; }
+.acnt-rt-blk ul li { vertical-align: middle; float: right; margin: 0 5px; } 
+.acnt-rt-blk ul li i { display: none; }
+.acnt-rt-blk ul li a { font-size: 13px; }
+.logo-row { /*margin-top: 0 !important;*/ padding: 7px 3px 3px; }
+.jackpot-blk { width: 40%; margin-right: 12px; }
+.blockpeal-blk { width: 40%; padding-top: 0px; margin-top: 0; float: right; position: inherit; top: auto; right: auto;} 
+.blockpeal-lt, .blockpeal-rt { width: auto; float: none; }
+.block-peal-row { font-size: 14px; margin-bottom: 0; }
+.mafiso-hd { width: 66px; margin-right: 3px; }
+.navbar { min-height: inherit; }
+.top-menu-row .nav li { padding-top: 5px !important; padding-bottom: 5px !important; }
+.icon-bar-main { margin-top: 0px !important; margin-bottom: 0px !important; }
+.top-acnt-row { padding: 0; }
+.top-family-icon { display: none;}
+.jackpot-lt { border-bottom: none; padding-bottom: 0; padding:5px; }
+.jackpot-lt h6 { font-size:14px; }
+.attack-menu { margin-top: 0px;position: relative; }
+.sub-msg { margin-bottom: 3px; }
+.mafisos-section { margin-top: 0px; }
+.mafiso-top-part p { display: inline-block; vertical-align: middle; }
+.mafiso-drpdwn { width: 55%; }
+.mafiso-tbl-sec { margin-top: 30px; }
+#ft-new { margin-top: 15px; }
+.ft-menu-new { margin: 15px 0; }
+.ft-menu-new ul li { margin-bottom: 10px; width: 33%; }
+#ft-new .copyright p { font-size: 11px; line-height: normal; margin-bottom: 10px; }
+.ft-menu-new ul li a { font-size: 11px; }
+.countdown-amount { font-size: 16px; }
+.jackpot-blk { margin-top: 69px;}
+.deal-txt { display:block; font-size: 12px !important;line-height: 15px; }
+.top-travel-banner-sec.mailbox-banner {width: 100% !important; background: none; height: auto; min-height: inherit;}
+.mail-box { left:0; bottom: -28px; display: none; }
+.top-txt.mailbox-txt { position: inherit; top: auto; left: auto; }
+.topgunsmoke.mailbox-smoke { display: none; }
+.vs-animat {display: none;}
+.firesecond { display: none;}
+.top-travel-banner-sec.top-bank-banner-sec { margin-top:0; min-height: inherit; }
+.buy-btn-sec { margin-top:0; }
+.attack-plane-section { margin-top:15px; }
+.past-section .select-txt { font-size:30px; }
+.past-section .select-round-sec { margin: 15px 0; }
+.mafiasmoke.prizesmoke { left: 36.6%; }
+.produce-inner-bg .colct-rgt-part { margin-bottom:10px; }
+.back-btn .cmn-cost-btn { line-height:40px; }
+.family-user-img-sec { width:100%; margin-right:0; }
+.family-img-part .family-data { width:100%; margin-top:20px; }
+.family-top-rgt-part.family-img-part {margin-top: 0px; padding:0;}
+.bulb-img, .bulbsecond-img { display:none; }
+.login-lft-part.login-page-lft-section { min-height: inherit;}
+.login-page-lft-section .signup-cntnt { margin-top: 20px;}
+.produce-inner-bg .collect-info span { font-size:12px; line-height: 15px; display: block;}
+.produce-inner-bg .collect-info h3 { min-height:30px; }
+.login-rgt-part.login-page-rgt-section { margin-top:30px; }
+.signup-page-section .login-lft-part{ margin-top:20px; }
+.produce-inner-bg .topgunsmoke.hiresmoke { display:none; }
+.left-img { left:0; }
+.right-img { right:0; }
+.collect-info span { font-size:12px; line-height:15px; }
+.collect-sect .collect-info h3 {min-height: 30px;}
+.mafioso-attack .user-name { padding-left: 0; font-size: 13px;}
+.sparkle, .sparklesecond { display:none; }
+#signup-body.login-box-body.faq-box-body { width: 96%; margin: auto; clear: both; }
+.faq-box-body .btn.btn-raised { white-space:inherit; padding-right: 45px;position: relative; line-height: 20px; }
+.faq-box-body .panel-heading i { margin-top:0; position: absolute; right: 13px; top: 15px; }
+.faq-box-body .panel-body ol li {  line-height: 20px;  }
+.faq-hdr h3 {font-size: 30px; line-height: 30px;}
+.game-guides-rules.screenshot-sec { padding-top:0; }
+.static-row span { font-size: 22px; }
+.video-sec iframe { width:100% !important; }
+.signup-page-section.faq-page-section .login-lft-part { margin-top:5px; }
+.faq-page-section .menu-bar { margin-top:10px; }
+.goldshine { left:95px;} 
+.moneydown { left:73px; }
+.moneyincrse { left:87px; }
+.sub-img-sec { width:100%; text-align:center; }
+.sub-txt-sec { width:100%; text-align:center; }
+.sub-txt-sec a { font-size: 16px; }
+.family-img-part .found-part span { width:48% !important;font-size: 15px; }
+.family-img-part .found-part em { width:48%; font-size:15px; }
+.online-sec .mafiso-top-part { width:100%; text-align:center;}
+.online-sec .mafiso-top-part p {  font-size:13px;}
+.online-sec .mafiso-drpdwn { width:49%; text-align:left;}
+.user-lft-row { width:100%; margin: 0 0 10px; }
+.user2-top-part .user-status { width:100%; }
+.user2-top-part .other-links { width:100%; }
+.user2-top-part .other-links ul li {padding: 3px 4px 3px; width: 32.6%;}
+.user2-top-part .other-links ul li a {font-size: 12px;}
+.user2-top-part .user-status li { text-align:center!important;margin-bottom: 0px; }
+.user2-top-part .user-status li span { display: inline-block;width: 50%; }
+.mafisos-section.city-sec .mafiso-top-part { margin-bottom:0; }
+.city-sec .tab_container.mylevel-tab-part { margin-top:0; }
+.city-sec .global-btm-part { margin-top:20px; }
+.water { display: none; }
+.collect-section.family-section.main-family-page { width:100% !important; margin: 0; }
+.main-family-page .family-user-img-sec { width:100%; margin-right:0; margin-bottom:  15px; }
+.main-family-page .family-img-part .family-data { width:100%;  padding: 15px; min-height: inherit; margin-bottom:  15px; }
+.family-chat-msg-box { display: none; }
+.main-family-page .tmb-list-row { margin-top:10px; }
+.main-family-page .family-top-rgt-part.family-img-part .tmb-red-txt { font-size:18px; }
+.game-guide-accordion .panel-body {padding-right: 15px;}
+.fast-start-panel, .rounds-bg, .turns-bg {background: none !important;}
+.video-sec-hdr {margin-bottom: 0;}
+.video-sec-hdr h6 {width: 100%; text-align: center; margin-bottom: 10px; font-size: 16px;}
+.new-game-guide-page .video-sec {margin: 15px 0;}
+.video-thumb-blk {margin-bottom: 15px;}
+.video-thumb-blk:last-child {margin-bottom: 0;}
+.game-guide-accordion .panel-body p, .game-guide-accordion .panel-body ol li {font-size: 14px; line-height: 18px;}
+.game-guide-accordion .btn.btn-raised {font-size: 16px;}
+.video-thumb-row .col-sm-2 {text-align: center;}
+.video-thumb-blk {width: 130px; margin-left: 5px; margin-right: 5px; float: none; display: inline-block; height: 130px; vertical-align: top;}
+.user2-top-part .user-status ul { width:100%; }
+.top-admin-row { width:100%; }
+.admin-top-link { width:100%; }
+.admin-top-link span { display:block; text-align:center; margin-bottom: 10px;font-weight: 600; font-size:16px;}
+.admin-top-link ul li::after { display:none;  }
+.admin-top-link ul { text-align:center; }
+.admin-top-link ul li { width: 50%;margin-right: 0;margin-bottom: 10px; float: left; }
+.admin-top-link ul li:nth-child(4n){ width:50%;float: left; }
+.admin-top-link ul li:last-child { width:100%; }
+.clct-payment-part.detail2-sec-input .login-form { width:100%; margin-right:0; }
+.track-btn-row { width:100%; }
+.user-credit .top-hdr-sec p { font-size:12px; }
+.user-credit .top-hdr-sec span { font-size:14px; }
+.mafia-img-sec { text-align:center; }
+.mafia-img-sec i { height:auto; }
+.credit-cntnt span { margin: 7px 0; font-size: 18px; }
+.credit-cntnt p { font-size: 14px;line-height: 26px; }
+.credit-cntnt h3 { font-size:20px; }
+.mafiso-top-part.family-rank-part { width:100%; }
+.mafios-matc-btn { width:100%; }
+.family-find-sec .select-round-sec .clct-payment-part .login-form { width:100%; padding:0 15px; }
+.new-family::before, .new-family::after { display:none; }
+.collect-section.past-section.family-find-sec {background-position: bottom; background-size: cover;}
+.welcome-top-part { width:100%; text-align:center; }
+.welcome-top-part .cmn-hdr, .welcome-top-part a { float:none; }
+.game-top-link ul li { margin-right: 10px; }
+.game-top-link ul li a { font-size:13px; }
+.game-top-link { padding:10px 5px; }
+.play-table-row { margin-top:25px; }
+.how-play-video-part { padding:15px; }
+.play-table-row .user-name { font-size:12px; }
+.jackpot-blk.respns-hgt { margin-top:45px; }
+.play-modal .modal-content .modal-body { padding:10px; }
+#iframeYoutube {width: 100%;height: auto;}
+.modal.in .modal-dialog.play-modal { margin-top:50px; }
+.btn.close-btn { right:-7px; }
+.credit-mdl-cntnt { background-size:cover; background-position: center bottom; }
+.user-awrd-sec h3 { font-size:14px; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > th, .global-tbl-sec .attack-data .table-bordered > thead > tr > th, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > th:nth-child(2n) { padding-left:5px !important; }
+.play-btm-cntnt { margin-top:15px; }
+.play-table-row .table { margin-bottom:0; }
+.credit-top-part { height:inherit; }
+.credit-rgt-part {width: 100%;display: inline-block;padding: 15px;}
+.crdt-txt { margin:0; }
+.crdt-txt p {font-size: 13px;}
+.convert-part p { font-size:14px; }
+.select-crdit-row { margin-top:0; }
+.select-crdit-row .mafiso-drpdwn { width:100%; margin: 5px 0; }
+.buy-row p { font-size:16px; margin-bottom: 5px; }
+.buy-row { min-height:inherit; margin-bottom: 15px; }
+.buy-lft-part, .buy-rgt-part { width:100%; }
+.credit-info-sec { margin-bottom:0;}
+.buy-mob-row i { margin-left:0; margin-top:10px; }
+.credit-btn-part .switch-btn.collect-btn { margin:10px 0; }
+.credit-btm-part { margin-top:0; }
+.credit-main-row p { font-size:16px; margin-bottom:0; }
+.credit-main-row span { line-height:20px; }
+.play-table-row .count { /*display:block;*/ }
+.play-table-row .user-name img { margin-right:2px; }
+.faq-hdr.cmng-sn-row h3 { font-size:50px;  height: 200px;}
+.collect-section.cming-sn-part { min-height:200px; }
+.my-acnt-sec .faq-hdr h3 { font-size:25px; }
+.my-acnt-sec { padding:15px; }
+.play-info.my-acnt-lft-info, .play-info.my-acnt-rgt-info { min-height:inherit; margin-top: 0;margin-bottom: 15px; }
+.play-info.my-acnt-lft-info .block-peal-row { padding-left:0; margin-bottom: 10px;}
+.play-info.my-acnt-lft-info .block-peal-row .mafiso-hd { width:100%; margin-bottom: 0; }
+.chng-pswd-row .clct-payment-part span { width:100%; margin-right:0; margin-bottom:5px; }
+.chng-pswd-row .clct-payment-part .login-form { width:100%; text-align: center; }
+.chng-pswd-row .clct-payment-part .switch-btn.collect-btn { min-width:inherit; font-size:12px; }
+.respns-non { display:none !important; }
+.mafioso-row { margin-top:0; }
+.acnt-rt-blk ul li:first-child { margin-right:0; }
+.attack-data .table-bordered > tbody > tr > td, .attack-data .table-bordered > tfoot > tr > td, .attack-data .table-bordered > thead > tr > td { font-size:13px; }
+.union-top-rgt-part .tmb-list-row { margin-top:0; }
+.union-top-rgt-part .found-part span { font-size:16px; }
+.union-top-rgt-part .found-part em { font-size:15px; }
+.tmb-list-row.state-list-row ul li { margin-bottom:10px; }
+.union-inner-bg .tmb-red-txt { font-size:18px; }
+.login-lft-part .how-to-video a img { width: 100%;}
+.clct-payment-part .my-account-all-btn{ margin-left:0; text-align:center;}
+.childtab_content iframe{ width:100% !important;}
+.credit-tbl-part .attack-data .table-bordered > tbody > tr > td em{ display:inline-block; margin-right:10px;}
+.tab_drawer_heading{ display:block;}
+.attack-inner{ width:100%; overflow-y:auto;position:relative;}
+.clct-inner-bg-part.travel-inner-bg .mafiasmoke, .clct-inner-bg-part.travel-inner-bg .gototop img { display: none !important; }
+.clct-inner-bg-part.travel-inner-bg { background-position: left -20px bottom 50px !important; background-size: 180%; }
+.curnt-travel-sec {  position: relative; z-index: 11; width: 100%; float: none; padding: 7px 0; margin: 0; }  
+
+.black-market-inner-row { padding: 0 20px; }
+.black-market-leftbg { background-position: center;  background-size: cover; }
+.black-market-leftbg .black-market-inner-row { width: auto; float: none; position: relative; }
+.black-market-leftbg:before { background:rgba(0,0,0,0.7); width:100%; position:absolute; left:0px; top:0px; content:""; height:100%; z-index:0; }
+.black-market-leftbg .bottom-hdr { bottom: 0; }
+.protect-prgrm1 {background: #8c8788;border-radius:4px;padding: 10px;color: white; width: 225px;margin: 0px auto; float:left;}
+
+.top-bank-banner-sec .top-txt {    left: auto;
+    top: auto;
+    position: inherit;
+    width: 100%;
+    text-align: center;
+    display: block; }
+.bank-box-list .s-box { position: inherit; top: auto; }
+.bank-box-list .s-box img { width: 80px; }
+.bank-box-list h2 { margin-top: 0; }
+.goldshine, .moneyincrse { display: none; }
+.bank-btm-sec.collect-section { margin-bottom: 30px !important; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new { padding-top: 70px; padding-bottom: 15px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new h4.mafia_mafia_mafia_mafia_mafia_mafia_footer-heading { font-size: 25px; margin-bottom: 10px; margin-top: 20px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new ul.mafia_mafia_mafia_mafia_mafia_mafia_footer-link li a { font-size: 17px; }
+header.header-new .logo-timer-cnt, header.header-new .jackpot-amount-cnt, header.header-new .mafioso-networth-cnt { width: auto; float: none; margin:5px 0; min-height: inherit; }
+header.header-new .jackpot-amount-cnt { margin: 5px 0; padding: 5px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new .mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon { padding: 20px 0; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new .mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon img { width: 50px; }
+.mafioso-action ul li { width: auto; margin: 0 0 2px 5px;}
+.mafioso-action ul li img{display:none;}
+header.header-new .header-cap-logo { display: none; }
+.rank-options.view-row:after, .rank-options.ranks-row:after,.rank-options.ranks-row:before, .rank-options.find-row:before { display: none; }
+header.header-new .publicround-cnt { width: 45%; padding-top: 0px; }
+.rank-row { margin-top: 0; }
+.mafia_mafia_mafia_mafia_mafia_mafia_footerlink-area { text-align: left; }
+ul.mafia_mafia_mafia_mafia_mafia_mafia_footerlinks li { margin: 15px 0 0 0; width: 49%; }
+.mafia_mafia_mafia_mafia_mafia_mafia_footer-copyright-txt { margin-bottom: 15px; }
+header.header-new .publicround-btn { width: auto; height: auto; line-height: normal; padding:  5px 10px; font-size:  14px; }
+.top-logo-new img { width: 140px;}
+header.header-new .topright-links { display: none; }
+header.header-new .top-logo-new { text-align: center; }
+header.header-new .top-credit-cnt { padding-bottom: 10px;text-align:left !important; }
+header.header-new .top-policy {text-align: right !important;margin-top: -20px;}
+.menu-lt { position: fixed; top: 2px; left: 0; width: auto; z-index: 99; }
+.travel-cost-row { margin-top: 0px; }
+.playvideo-img-big { max-width: 100%; }
+.youtube-play-icon { width: 50px; }
+.howtoplay-hd em { font-size: 18px; }
+.menu-row { position: fixed; top: 2px; width: auto; left: 0; z-index: 9; }
+.header-new-main .menu-row { position: inherit; margin: 0; top: auto; width: 100%; }
+.play-btm-cntnt .select-txt { width: 60%; float: left;  text-align: left; font-size:  30px; margin-top: 0; margin-bottom: 10px; }
+.round-play-cnt1, .round-play-cnt2, .round-play-cnt3 { width: auto; float: none; background: none; min-height: inherit; padding-top: 0;  }
+.round-play-cnt2 { padding: 15px 0; border-top: 1px solid #333; border-bottom: 1px solid #333; margin: 15px; overflow: hidden; }
+.round-play-cnt3 { padding: 15px;  }
+.play-time-counter ul li, .play-round-amount { font-size:  40px; }
+.top_div span { font-size: 35px; }
+.round-play-cnt3 .playnow-btn-new { margin-top: 0px;}
+.d-h-m-s span { width: 22%; }
+ul.round-counter { margin-top: 0; }
+.top-day-timer { margin-top: 0; }
+header.header-new .jackpot-amount-cnt span { display: inline-block; margin-top: 0; } 
+.midd-padd-right, .home-listing.home-listing-grid ul li:first-child { padding-right: 15px; } 
+label.label-cnt { width: 45%; font-size: 14px; }
+.rank-hdr:after { display: none; }
+header.header-new .logo-timer-cnt { padding-top: 15px; padding-bottom: 10px; }
+header.header-new .switchround-btn { top: -21px; }
+.top-day-count { font-size: 26px; }
+.top-day-timer em { font-size: 12px; }
+.top-day-timer { font-size: 14px; line-height: 16px; }
+header.header-new .publicround-cnt em { font-size: 24px; }
+header.header-new .jackpot-amount-cnt { font-size: 26px; }
+header.header-new .jackpot-amount-cnt span { font-size: 28px;  }
+header.header-new .top-logo-new { display: block; }
+.turboround-btn { display: block; margin-left: 0; width: 170px; margin: auto; padding: 0; }
+.navigation-menu-mobile { display: block; }
+.mobile-show { display: block; }
+.desktop-show { display: none; }
+
+header.header-new .mobile-header-leftarea .publicround-cnt, header.header-new .mobile-header-leftarea .timer-cnt { width: auto; float: none; padding-top: 0; }
+header.header-new .mobile-header-rightarea .header-mafioso-right, .mobile-header-rightarea .header-mafioso-cnt1, .mobile-header-rightarea .header-mafioso-cnt2 { width: auto; float: none; }
+header.header-new .mobile-header-rightarea .mafioso-networth-cnt { padding: 0; } 
+.mobile-header-rightarea label.label-cnt { width: 35%;float:left;margin-right: 10px; }
+.mobile-header-leftarea { padding: 5px 0 35px; }
+.mobile-header-rightarea .header-mafioso-row { margin: 2px 0;width: 100%;float:left;}
+header.header-new .mobile-header-rightarea .jackpot-amount-cnt { padding: 0; font-size: 20px; margin: 0; }
+header.header-new .mobile-header-rightarea .jackpot-amount-cnt span { line-height: normal; font-size: 20px; display: block;} 
+header.header-new .mobile-header-rightarea .jackpot-amount-cnt { line-height: 26px; }
+.home-listing.home-listing-grid ul li:last-child, .home-blog-forum-row div:last-child.col-md-6 { padding-left: 15px; }
+.home-blog-forum-row div:first-child.col-md-6 { padding-right: 15px; }
+.blog-forum-cnt { margin-bottom: 10px; }
+.home-listing-single .home-listing-inn { padding-bottom: 30px; }
+.home-listing-grid #owl-carousel .home-listing-inn { min-height: 215px; }
+.home-blog-forum-bottspace { margin-bottom: 0; }
+.msg_popup .col1, .msg_popup .col2 { width: auto; float: none; text-align: center; }
+.msg_popup .col2 { padding-left: 0; }
+.doitagain-cnt { text-align: center; }
+.family-members { margin-top: 0 !important; }
+.family-members .card-header .btn { width: 100%; }
+.family_top_noti { text-align: center; }
+.family_top_noti ul li { float:  none; }
+.hd-chat-btn { width:  45px; right: 13px;}
+.mob_mail_content ul li{margin: 0 0 2px 0px !important;}
+.chat-message-box1  {     position: fixed;
+    width: 100%;
+    height: 100%;
+    max-width: inherit;
+    z-index: 9999999999;
+    top: 0;
+    left: 0;
+    transform: none;
+    border: 10px solid #585858; }
+    .chat-message-box1 .chat-message-box-input {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+    }
+    .chat-message-box1  .chat-message-box-cnt {
+        max-height:  calc(10% - 65px);
+    }
+
+    .invite-banner {
+        margin-bottom: 15px;
+    }
+}
+@media screen and (min-width:200px) and (max-width:568px) {
+    .login-box-body{width:100%}
+    .game-screenshot .owl-carousel{width:100%; text-align:center}
+    .game-screenshot  .item{margin:0 auto}
+    .game-screenshot    .owl-nav{display:none}
+    .captcha-sect img{width:100%}
+    .top-logo{z-index:-1}
+    .top-links {height:auto; text-align:center; width:100%; margin-top:20px;}
+    .top-links ul li{width:100%; display:block; text-align:center}
+    .top-links p{text-align:center; margin:10px 0;}
+    .operative-part .defence-image-section ul li { width:28%; margin-right:5%; margin-bottom:10px; }
+    .operative-part .defence-image-section ul li:nth-child(3n) { margin-right:0; }
+    .operative-part .defence-image-section ul li:last-child { margin-right: 5%;}
+    
+    .collect-section.driveby-section{min-height:1100px;}
+    .win-sec{max-width:450px; margin-top:20px; display: inline-block;}
+    .vs-sec{width:30px; overflow:hidden}
+    .vs-sec .top-awrd-banner-sec{margin-top:0px;}
+    .first-sec{max-width:100px; min-width:100px; height:100px; background-size:cover; background-position:center center}
+    .first-sec.lose-sec{max-width:100px; height:100px; background-size:cover; float:right; background-position:center center}
+    .first-sec p{width:100%; left:0px;}
+    .first-sec i {position: absolute;   left: 0px; right:0px; margin:0 auto;    top: 25px;  display: inline-block;  width: 70px;    height: 70px;}
+    .first-car,
+    .fourth-car{ display:none}
+    .third-car{display:none}
+    .second-car{right:-250px; bottom:-20px}
+    .drive-mdl-part span,
+    .drive-mdl-part .drug-lab-mdl-part span{font-size:8vw}
+    .drive-mdl-part h3,
+    .drive-mdl-part .drug-lab-mdl-part h3{font-size:6vw}
+    .drive-mdl-part {min-height:300px; }
+    .first-sec p{font-size:4vw}
+    .expbusi-animation{width:200px;}
+    .expbusi-hand{top:-50px !important}
+    .user-sec.user-sec2 .user-detail-content .user-level{width:100%}
+    .user-sec .user-detail-content .user-level{width:95%; margin-top:20px;}
+    
+    .user-sec .usr-img{margin:0px auto auto; width:80px; height:80px;}
+    .user-sec .usr-img img{max-width:100%; max-height:100%}
+    .user-sec.user-sec2 .usr-img{margin: 0px auto;text-align: center;width: 150px;height: 150px;}
+    .user-sec2 .user-desc-top{width:100%;border:none !important; border-top:1px solid #444 !important;}
+    
+    .contract-tabs.welcome-section ul.tabs > li{min-width:33.33%; float:left;}
+}
+
+/*--Extra Media  if Require ---*/
+@media screen and (min-width:200px) and (max-width:374px) {
+.menu-rt ul li a { font-size: 13px;}    
+.top-day-count{ font-size:15px;}
+.header-mafioso-cnt1 span, .header-mafioso-cnt2 span, .header-mafioso-cnt3 span { font-size: 14px; display: block; }
+header.header-new .register-email-cnt, header.header-new .publicround-btn { font-size: 13px; }
+header.header-new .timear-area ul li { font-size:  20px; }
+.attack-menu ul li { width: 107px; }
+.rank-options ul li a { font-size: 12px; }
+header.header-new .jackpot-amount-cnt { font-size: 22px; }
+header.header-new .jackpot-amount-cnt span { font-size: 21px; }
+.play-time-counter ul li, .play-round-amount {font-size: 33px; padding: 0 2px; }
+.play-btm-cntnt .select-txt { font-size: 25px; }
+.top_div span { font-size: 32px; }
+#mafia_mafia_mafia_mafia_mafia_mafia_footer-new .mafia_mafia_mafia_mafia_mafia_mafia_footer-social-icon a { margin: 0 20px; }
+ul.mafia_mafia_mafia_mafia_mafia_mafia_footerlinks li a { font-size: 14px; }
+.round-play-cnt3 a.playnow-btn-new { font-size: 30px; }
+.is-countdown {
+    font-size: 45px !important;
+}
+label.label-cnt { width: 100%; float: none; }
+}
+@media screen and (min-width:375px) and (max-width:413px) {
+.top-menu-row .nav li { padding:5px 13px; }
+.acnt-rt-blk ul li a { font-size: 14px;}
+.acnt-rt-blk ul li { margin: 0 5px; }
+.credits-links a:last-child {padding: 0 0 0 10px;}
+.icon-bar-main { margin-top:12px;}
+.top-menu-row .nav li a { font-size: 15px;}
+.exchange-sec .mafiso-drpdwn { width: 42%; }
+.blck-mrkt-innertop-part ul li { width:46%; }
+.plan-fire { width: 122px; top: 7px; right: 0;}
+.collect-sect .collect-info h3 {min-height: auto;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+
+}
+
+@media screen and (min-width:414px) and (max-width:479px) {
+.plan-fire { width: 122px; top: 10px; right: 13px;}
+.collect-sect .collect-info h3 { min-height: auto;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+
+}
+
+@media screen and (min-width:480px) and (max-width:567px) {
+.top-menu-row .nav li { padding: 6px 7px; } 
+.navbar { min-height: inherit;}
+.logo-row { margin-top:35px; }
+.icon-bar-main { margin-top:0;}
+.welcome-section .nav-tabs > li { width:49%; margin-right:2%; margin-bottom:10px; }
+.welcome-section .nav-tabs > li:nth-child(2n) { margin-right:0; }
+.welcome-section .nav-tabs > li a { font-size:16px;}
+.new-user-section.marg-btm { margin-bottom:40px;}
+.game-guides-rules.earn-free-turns.earn-free-next-part span { display:inline-block; margin-left:20px;}
+.mofisos-btn-part span::before, .mofisos-btn-part span::after { display:block; }
+.bodyguard-info span { width: 145px; }
+.top-links ul li { width:50%; float:left; }
+.top-links p { width:100%; float: left; }
+.exchange-sec .mafiso-drpdwn { width: 44%; }
+.plan-fire {width: 122px;top: 19px;right: 27px;}
+.collect-section.mafiaattack-section {min-height: 480px;}
+.family-user-img-sec {width: 70%;margin-right: 0;margin: 0 auto;text-align: center;float: none;}
+.clct-inner-bg-part.produce-inner-bg { background-position: top center;}
+.col-lg-4.col-sm-4.col-xs-12.screenshot-resp {width: 50%;}
+#signup-body.login-box-body.faq-box-body.scrnshot-box-body { max-width:100%; }
+#signup-body.login-box-body.faq-box-body { max-width:100%; }
+.mafiso-top-part { width:65%; }
+.main-family-page .family-img-part .found-part span {width: 35%;}
+.collect-sect .collect-info h3 {min-height: auto;}
+.top-travel-banner-sec i.gototop { left:0 !important; }
+.top-travel-banner-sec { margin:0 auto !important; }
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+}
+@media screen and (min-width:568px) and (max-width:639px) {
+.navbar { min-height: inherit;}
+.logo-row { margin-top:35px; }
+.top-menu-row .nav li { padding: 7px 13px; }
+.top-menu-row .nav li:first-child { padding-left: 15px;}
+.acnt-rt-blk ul li { margin:0 9px; }
+.acnt-rt-blk ul li a i { margin-right: 9px;}
+.welcome-section .nav-tabs > li { width:49%; margin-right:2%; margin-bottom:10px; }
+.welcome-section .nav-tabs > li:nth-child(2n) { margin-right:0; }
+.welcome-section .nav-tabs > li a { font-size:16px;}
+.icon-bar-main { margin-top:2px;}
+.welcome-section ul.tabs > li { font-size:3vw; padding:7px 0px; }
+.tab_drawer_heading { margin-bottom:0;}
+.game-guides-rules.earn-free-turns.earn-free-next-part span { display:inline-block; margin-left:20px;}
+.mofisos-btn-part span::before, .mofisos-btn-part span::after { display:block; }
+.attack-data .table-bordered > tbody > tr > td, .attack-data .table-bordered > tfoot > tr > td, .attack-data .table-bordered > thead > tr > td { font-size:13px; }
+.user-name { font-size:13px; }
+.mafiso-top-part { width:65%; }
+.mafiso-top-part p { display:inline-block; }
+.mafiso-drpdwn { width:60%; margin: 0;}
+.colct-innertop-part ul li { width: 25%; margin-bottom: 0;}
+.clct-payment-part span { display:inline-block; margin-right:8px; }
+.bodyguard-info span { width: 145px; }
+.operative-lft-part { width: 50%;}
+.operative-rgt-part { width: 100%; text-align:left; margin-top: 10px;}
+.top-links ul li { width:50%; float:left; }
+.top-links p { width:100%; float: left; }
+.blck-mrkt-innertop-part ul li { width: 31%; }
+.exchange-sec .mafiso-drpdwn { width: 45%; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > td, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > td, .global-tbl-sec .attack-data .table-bordered > thead > tr > td { font-size:13px; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > th, .global-tbl-sec .attack-data .table-bordered > thead > tr > th, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > th { font-size:13px; }
+.top-travel-banner-sec i img { max-width: 80%;}
+.top-travel-banner-sec i.gun-img { right:0; }
+.gun-fire.black-mrket-fire { top: 35.5%;right: 156px; }
+.global-btm-part .clct-payment-part { width:50%; text-align:left; }
+.next-prev-row { width:50%; text-align:right; margin-top:0px; }
+.global-btm-part .clct-payment-part span { float: left; margin-top: 10px;}
+.global-btm-part .clct-payment-part .login-form { float: left; text-align: left;}
+.global-btm-part .cmn-cost-btn { overflow: initial; }
+.mafiasmoke.black-mrkt-smoke{left:172px}
+.collect-section.mafiaattack-section { min-height: 480px;}
+.plan-fire { width: 122px; top: 29px; right: 50px;}
+.tab_container.mylevel-tab-part.mail-box-tab-part { border-top:1px solid #444; }
+.family-user-img-sec {width: 70%;margin-right: 0;margin: 0 auto;text-align: center;float: none;}
+.clct-inner-bg-part.produce-inner-bg {background-position: top center;}
+#signup-body.login-box-body.faq-box-body {margin-top: 10px; max-width: 100%;}
+.faq-box-body .panel-heading i { top:12px;}
+.col-lg-4.col-sm-4.col-xs-12.screenshot-resp {width: 50%;}
+#signup-body.login-box-body.faq-box-body.scrnshot-box-body { max-width:100%; }
+.goldshine { left:34px;} 
+.moneydown { left:13px; }
+.moneyincrse { left:26px; }
+.family-img-part .found-part span { width:32%;font-size: 15px; }
+.family-img-part .found-part em { width:67%; font-size:15px; }
+.online-sec .attack-data .table-bordered > tbody > tr > th, .online-sec .attack-data .table-bordered > thead > tr > th, .online-sec .attack-data .table-bordered > tfoot > tr > th { font-size:11px; }
+.user-lft-row {width: 49%; margin:20px 0 0;}
+.user2-top-part .user-status { width: 49%; margin-right:0;}
+.user-lft-row p { font-size:12px; }
+.top-user-sec.top-user2-sec .user2-top-part .extra-text { font-size:14px;}
+.user2-top-part .user-status li span {display: inline-block;width: 60%;}
+.main-family-page .family-img-part .found-part em { width: 50%; font-size: 14px;}
+.main-family-page .family-img-part .found-part span {width: 48%; font-size: 14px; line-height: 21px;}
+.main-family-page .family-user-img-sec { width: 50%; }
+.main-family-page .family-img-part .family-data { width:50%; margin-top: 5px;}
+.main-family-page .tmb-list-row { margin-top:10px; }
+.main-family-page .family-img-part .tmb-list-row ul li { margin-bottom:0; }
+.collect-section.family-section.main-family-page { min-height:auto; }
+.main-family-page .family-top-rgt-part.family-img-part .tmb-red-txt { font-size:20px; }
+.family-main-tbl .family-tbl-sec .user-name { font-size:12px; padding-left:0; }
+.family-main-tbl .user-name img { margin-right:3px; vertical-align:middle; }
+.family-tbl-sec .attack-data .table-bordered > tbody > tr > th, .family-tbl-sec .attack-data .table-bordered > thead > tr > th, .family-tbl-sec .attack-data .table-bordered > tfoot > tr > th { font-size:13px; }
+.select-crdit-row .mafiso-drpdwn { width: 32.9%; }
+.play-info.my-acnt-lft-info .block-peal-row .mafiso-hd {width: 35%;}
+.collect-sect .collect-info h3 { min-height: auto;}
+.cont-logo img { border-radius:50%; width:50px; }
+.cont-top h2 { margin-left:57px; font-size:13px; }
+.cont-logo { width: 55px;height: 55px;top: -20px; }
+.contract-tabs.welcome-section .tab_container.main-tab-part { padding:0 15px; }
+.cont-list-box { background-size:cover; }
+.mafios-matc-btn {width: auto;}
+.past-section .or-sec .select-txt { margin-bottom:10px;}
+.cstm-chckbox-part .col-md-2.col-sm-3, .cstm-chckbox-part .col-md-2.col-sm-2{ width:32.33%; display:inline-block;}
+.chng-pswd-row .cstm-chckbox-part .myacc-rdo-hading{ font-size:16px;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+}
+
+@media screen and (min-width:640px) and (max-width:767px) {
+.navbar { min-height: inherit;}
+.logo-row { margin-top:35px; }
+.top-menu-row .nav li { padding: 7px 19px; }
+.top-menu-row .nav li:first-child { padding-left: 15px;}
+.icon-bar-main { margin-top:0; }
+.acnt-rt-blk ul li { margin:0 9px; }
+.acnt-rt-blk ul li a i { margin-right: 9px;}
+.welcome-section ul.tabs > li { font-size:1.7vw; padding:7px 3px; }
+.tab_drawer_heading { margin-bottom:0;}
+.game-guides-rules.earn-free-turns.earn-free-next-part span { display:inline-block; margin-left:20px;}
+.signup-page-section .top-links { width: 74%; margin-top: 8px; }
+.signup-page-section .mafiatxt-logo { width: 25%; float:left; }
+.signup-page-section .top-links p { margin-top:17px; }
+.signup-top h2 { margin-bottom:0; }
+.mafiatxt-logo img {max-width: 40%;}
+.game-screenshot { width: 91%;text-align: center; margin: 0 auto;}
+.mofisos-btn-part span::before, .mofisos-btn-part span::after { display:block; }
+.mafiso-top-part { width:65%; }
+.mafiso-top-part p { display:inline-block; }
+.mafiso-drpdwn { width:60%;}
+.colct-innertop-part ul li { width: 25%; margin-bottom: 0;}
+.clct-payment-part span { display:inline-block; margin-right:8px; }
+.defence-image-section .bodyguard-info span { width: 210px;}
+.operative-part .defence-image-section .bodyguard-info span { width: 100px;}
+.top-links li a { font-size:14px; }
+.mafiatxt-logo.signup-logo img { max-width: 90%;}
+.signup-page-section .top-links { display:block !important; }
+.menu-bar { display:none; }
+.signup-page-section .mafiatxt-logo.signup-logo { margin-top:8px; }
+.blck-mrkt-innertop-part ul li { width: 23%; }
+.exchange-sec .mafiso-drpdwn { width: 45%;}
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > td, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > td, .global-tbl-sec .attack-data .table-bordered > thead > tr > td { font-size:14px; }
+.global-tbl-sec .attack-data .table-bordered > tbody > tr > th, .global-tbl-sec .attack-data .table-bordered > thead > tr > th, .global-tbl-sec .attack-data .table-bordered > tfoot > tr > th { font-size:14px; }
+.top-travel-banner-sec i.gun-img { right:0; }
+.gun-fire.black-mrket-fire { right:175px; }
+.family-tbl-sec .user-name { padding-left: 0;}
+.user-name { padding-left: 5px;width: 115px;display: inline-block;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; }
+.tmb-list-row ul li { width: 32%; margin-bottom: 15px;}
+.attack-data .table-bordered > tbody > tr > th, .attack-data .table-bordered > thead > tr > th, .attack-data .table-bordered > tfoot > tr > th { font-size:14px; }
+.global-btm-part .clct-payment-part { width:50%; text-align:left; }
+.next-prev-row { width:50%; text-align:right; margin-top:0px; }
+.global-btm-part .clct-payment-part span { float: left; margin-top: 10px;}
+.global-btm-part .clct-payment-part .login-form { float: left; text-align: left;}
+.global-btm-part .cmn-cost-btn { overflow: initial; }
+.collect-section.mafiaattack-section { min-height:550px; }
+.plan-fire { width: 122px; top: 37px; right: 67px;}
+.ft-menu-new ul li a { font-size: 14px; }
+.collect-info img { width: 100px;}
+.tab_container.mylevel-tab-part.mail-box-tab-part { border-top:1px solid #444; }
+.select-round-sec .clct-payment-part { margin-top:0; }
+.past-section .select-round-sec { margin: 15px 0 25px;}
+.mafiasmoke.prizesmoke { left: 42.6%; }
+.family-user-img-sec {width: 45%;margin-right: 3%;float: left;}
+.family-img-part .family-data {width: 52%;margin-top: 0;}
+.clct-inner-bg-part.produce-inner-bg {background-position: top center;}
+#signup-body.login-box-body.faq-box-body {margin-top: 60px; max-width: 100%;}
+.faq-box-body .panel-heading i { top:12px;}
+.col-lg-4.col-sm-4.col-xs-12.screenshot-resp {width: 33.33%;}
+#signup-body.login-box-body.faq-box-body.scrnshot-box-body { max-width:100%; }
+.goldshine { left:51px;} 
+.moneydown { left:28px; }
+.moneyincrse { left:40px; }
+.family-img-part .found-part span { width:32%;font-size: 15px; }
+.family-img-part .found-part em { width:67%; font-size:15px; }
+.user-lft-row {width: 49%; margin:20px 0 0;}
+.user2-top-part .user-status { width: 49%; margin-right:0;}
+.user2-top-part .user-status li span { display: inline-block; width: 60%;}
+.main-family-page .family-img-part .found-part em { width: 50%; font-size: 14px;}
+.main-family-page .family-img-part .found-part span {width: 48%; font-size: 14px; line-height: 21px;}
+.main-family-page .family-user-img-sec { width: 50%; }
+.main-family-page .family-img-part .family-data { width:50%; margin-top: 5px;}
+.main-family-page .tmb-list-row { margin-top:10px; }
+.main-family-page .family-img-part .tmb-list-row ul li { margin-bottom:0; }
+.collect-section.family-section.main-family-page { min-height:auto; }
+.main-family-page .family-top-rgt-part.family-img-part .tmb-red-txt { font-size:20px; }
+.mafiso-top-part.family-rank-part { width: 50%;}
+.game-top-link ul li a {font-size: 16px;}
+.game-top-link ul li {margin-right: 30px;}
+.credit-btn-part .switch-btn.collect-btn { min-width:80px; }
+.select-crdit-row .mafiso-drpdwn { width:27%; margin-right:1%; }
+.credit-btn-part { width:14%; }
+.buy-mob-row .credit-btn-part { width:auto; }
+.play-info.my-acnt-lft-info .block-peal-row .mafiso-hd {width: 35%;}
+.chng-pswd-row .clct-payment-part span { width: 30%; }
+.chng-pswd-row .clct-payment-part .login-form { width: 50%;}
+.respns-non {display: inline-block !important;}
+.chng-pswd-row .clct-payment-part .login-form { text-align:left; }
+.collect-sect .collect-info h3 {min-height: auto;}
+.contract-tabs.welcome-section .tab_container.main-tab-part { padding:0 15px; }
+.cont-top h2 { margin-left:80px; font-size:14px; }
+.mafios-matc-btn { width: auto;}
+.past-section .or-sec .select-txt { margin-bottom:15px;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+}
+
+@media screen and (min-width:480px) and (max-width:767px) {
+.video-thumb-blk {width: 170px; height: 170px; margin-left: 7px; margin-right: 7px; float: none; display: inline-block; vertical-align: top;}
+.video-thumb-row .col-sm-2 {text-align: center;}
+.new-game-guide-page .video-sec iframe {height: 235px;}
+.cstm-chckbox-part .col-md-2.col-sm-3, .cstm-chckbox-part .col-md-2.col-sm-2{ width:32.33%; display:inline-block;}
+.chng-pswd-row .cstm-chckbox-part .myacc-rdo-hading{ font-size:16px;}
+.play-table-row .count { display: block;}
+.attack-inner{ width:100%; overflow-y:auto;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 80px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+
+}
+
+@media screen and (max-width:480px){
+.user-sec2 .user-desc-top{width:100%;border:none !important; border-top:1px solid #444 !important;}
+.user-sec2 .user-level{width:100%}
+.user-award-top .col-xs-4{width:100% }
+.top-user2-sec .user-credit .col-md-6{width:100%; text-align:center}
+.top-user2-sec .top-hdr-sec p{text-align:center; font-size:12px;}
+.user-status{width:100%; } /*max-width:300px;*/
+.user-status ul li span{width:auto; display:inline-block}
+.user-status ul li{width:100%; text-align:left !important;float:left; margin:5px 0}
+.user-status ul li img{float:right}
+.other-links ul li {    padding-left: 8px;    padding-right: 8px; padding-top:8px; padding-bottom:8px;}
+.other-links ul li a{font-size:16px;}
+.user-sec.user-sec2 .user-level li:first-child{width:100%; height:auto}
+.user-sec .user-level li:first-child{width:100%; height:160px; display:block; float:left; text-align:left}
+.user-sec .level-img{float:left; margin-left:50px; width:70px; height:70px; background-size:cover; padding:10px; margin-top:15px;}
+.user-sec.user-sec2 .usr-img{margin: 0px auto;text-align: center;width: 150px;height: 150px;}
+.user-sec .usr-img{margin:-70px auto auto; width:80px; height:80px;}
+.user-sec .usr-img img{max-width:100%; max-height:100%}
+.user-sec .user-level li.ranked{padding-top:0px;}
+.user-sec .user-level li{ width:33% }
+.user-sec.user-sec2 .user-level li.ranked{padding-top:0px; margin:0 auto}
+.collect-section.user-sec{min-height:660px;}
+
+.user-sec .level-img{float:none; margin:0px auto}
+.user-sec .user-level li.ranked{margin:-30px auto auto}
+.user-sec .user-level li.ranked:nth-child(2) .user-rank{ padding:0px; margin-left:-10px;}
+
+.mob-view{width:100%; max-width:310px; margin:0 auto; float:none}
+.cont-list-box{max-width:310px; background-size:inherit}
+.bank-btm-sec.collect-section{min-height:inherit; margin-bottom:130px;}
+.mob-view:last-child  .bank-btm-sec.collect-section{margin:0px; }
+.top-travel-banner-sec.black-mrket-banner{width:380px; overflow:hidden;margin: 0 auto;}
+.top-travel-banner-sec i.gun-img{left:inherit; right:-70px}
+.mafiasmoke.black-mrkt-smoke{left:97px}
+
+.gun-fire.black-mrket-fire{top:40%; right:75px;}
+.top-travel-banner-sec.top-bank-banner-sec{width:100%; overflow:hidden; margin-left:0px;}
+.top-travel-banner-sec{width:380px; margin:0px;}
+
+.mafiasmoke {left:33px;}
+.clct-inner-bg-part {background-position: left -100px bottom !important;}
+.top-travel-banner-sec i img { max-width:70%; }
+.top-travel-banner-sec i  { left:-150px;}
+.hire-rgt-part .collect-info{min-height:inherit;}
+.collect-info{min-height:inherit;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+}
+@media screen and (max-width:420px){
+.first-sec p{font-size:5vw}
+
+.user-sec2 .user-level{width:100%}
+.user-award-top .col-xs-4{width:100% }
+/*.user-sec .level-img{float:left; margin-left:5px;}*/
+.collect-section.user-sec{min-height:670px;}
+.top-travel-banner-sec i  { left:-50px;}
+.mafiasmoke.black-mrkt-smoke {   left: 97px;}
+.top-travel-banner-sec i.gun-img{left:inherit; right:-70px}
+
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+}
+
+@media screen and (max-width:380px){
+.top-travel-banner-sec.black-mrket-banner{width:280px; overflow:hidden; margin:0 auto}
+.gun-fire.black-mrket-fire{right:65px}
+.mafiasmoke.black-mrkt-smoke {   left: 47px;}
+.top-travel-banner-sec i.gun-img{left:inherit; right:-90px}
+.top-travel-banner-sec{width:290px; background-position:left -120px center; margin: 0 auto;}
+.mafiasmoke {left:30px;}
+.protect-prgrm {
+    background: rgba(90, 97, 88, 0.95);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    width: 99%;
+    margin: 70px auto 10px auto;
+    text-align: center;
+}
+.protect-prgrm-main + .site-logo + .jackpot-blk,.protect-prgrm-main + .site-logo +.jackpot-blk+ .blockpeal-blk {margin-top:0px;}
+.msg_popup .col1, .msg_popup .col1 img{overflow: hidden;height: 80px;text-align: center;}
+}
+
+@media screen and (max-height:479px){
+.navbar-nav.dsktp-non { height:250px; overflow:auto; }  
+
+}
+
+@media screen and (max-width:359px){
+    .family-img-part .found-part span { width: auto !important; padding-left:  0 !important; }    
+    .family-user-img-sec img {  height: auto;}
+    .main-family-page .family-img-part .family-data { text-align:  left;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .hd-chat-btn {margin-top: -50px !important;}
+}
+
+

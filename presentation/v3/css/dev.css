@@ -1,0 +1,21 @@
+/** added on 9-6-2017 **/
+.menu-rt ul li {margin-right:  8px;}
+/** added on 9-6-2017 **/
+
+/* Added on 02-08-2018 */
+.attack-menu{ position:relative;}
+.attack-menu .lt-arw{ position:absolute; left:0; top:17px; display:none; z-index:9;}
+.attack-menu .rt-arw{ position:absolute; right:0; top:17px; display:none; z-index:9;}
+.attack-menu a i { color:#fff; font-size:30px;}
+.hit-sec{ width:100%; float:left; border: 1px solid #444;}
+.hit-sec .heading{ font-size:20px; color:#999; text-align:center; margin-bottom:10px; font-family:'hindsemibold';}
+.hit-blk{ width:100%; float:left; text-align:center; margin-bottom:30px;}
+.hit-blk h4{ font-size:16px; color:#888; margin-bottom:10px; font-family:'hindsemibold';}
+.hit-blk i{ display:block; margin:5px 0 10px;}
+.hit-blk p{ font-size:14px; color:#888; line-height:16px; margin-bottom:10px; min-height:70px;}
+.hit-blk p span{ display:block;}
+.hit-input{ width:100%; display:inline-block; text-align:center; margin-top:20px;}
+.hit-input p{ font-size:14px; color:#888;}
+.hit-input input{ display:inline-block; margin:5px 0 10px;}
+.hit-input span{ display:block;}
+/* Added on 02-08-2018 */

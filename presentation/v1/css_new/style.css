@@ -1,0 +1,261 @@
+@font-face { font-family: 'bebas_neueregular'; src: url('../fonts/bebasneue-regular-webfont.woff2') format('woff2'), url('../fonts/bebasneue-regular-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'bebas_neueregular'; src: url('../fonts/bebasneue-regular-webfont.woff2') format('woff2'), url('../fonts/bebasneue-regular-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'hindbold'; src: url('../fonts/hind-bold-webfont.woff2') format('woff2'), url('../fonts/hind-bold-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'hindlight'; src: url('../fonts/hind-light-webfont.woff2') format('woff2'), url('../fonts/hind-light-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'hindmedium'; src: url('../fonts/hind-medium-webfont.woff2') format('woff2'), url('../fonts/hind-medium-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'hind_regularregular'; src: url('../fonts/hind-regular-webfont.woff2') format('woff2'), url('../fonts/hind-regular-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'hindsemibold'; src: url('../fonts/hind-semibold-webfont.woff2') format('woff2'), url('../fonts/hind-semibold-webfont.woff') format('woff'); font-weight: normal; font-style: normal; }
+/* CSS Document */
+* { box-sizing: border-box; }
+html, body, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, header, footer, section, aside, nav, article, figure, address, audio, video { background: transparent; border: 0; margin: 0; padding: 0; outline: 0; }
+html { min-height: 100%; position: relative; }
+body { font-family: 'hind_regularregular'; font-size: 26px; color: #fff; font-weight: 400; text-decoration: none; background: #000; }
+h1, h2, h3, h4, h5, h6 { color: #333333; margin-bottom: 0; font-family: 'bebas_neueregular'; font-weight: normal; }
+input, button { font-family: 'hind_regularregular'; }
+button { cursor: pointer; border: none; }
+input[type="text"], input[type="password"] { margin: 0px; padding: 0px; border: none; background: #ffffff; font-size: 18px; color: #000; padding: 15px; font-family: 'hind_regularregular'; -webkit-appearance: none; border-radius: 0; box-sizing: border-box; }
+select, textarea { margin: 0px; padding: 0px; border: 1px solid #d0d0d0; background: #ffffff; font-size: 13px; color: #333333; padding: 10px; font-family: 'hind_regularregular'; resize: none; border-radius: 3px; box-sizing: border-box; }
+textarea { overflow-y: auto; overflow-x: hidden; }
+small { color: #666; font-size: 11px; }
+:focus { outline: none; }
+a:focus { outline: none; }
+p { margin-bottom: 0; }
+img { border: none; outline: none; }
+a { color: #019ce4; text-decoration: none; outline: none; transition: all 0.5s ease 0s; -ms-transition: all 0.5s ease 0s; -moz-transition: all 0.5s ease 0s; -o-transition: all 0.5s ease 0s; -webkit-transition: all 0.5s ease 0s; }
+a:hover, a:focus { color: #fff; text-decoration: none; outline: none; transition: all 0.5s ease 0s; -ms-transition: all 0.5s ease 0s; -moz-transition: all 0.5s ease 0s; -o-transition: all 0.5s ease 0s; -webkit-transition: all 0.5s ease 0s; }
+ul, li { list-style: none; }
+.sprites { background: url(../images/sprites.png) no-repeat 0 0; }
+.rlatv { position: relative; }
+.fnone { float: none !important; }
+.nomrgn { margin: 0 !important; }
+.nopad { padding: 0 !important; }
+.wauto { width: auto !important; }
+.req { color: #ff0000; font-size: 12px; }
+/* Common CSS end here */
+
+/* common button css */
+.cmn-btn { text-align: center; padding: 0 15px; color: #fff; font-family: 'bebas_neueregular'; display: inline-block; min-width: 120px; line-height: 44px; font-size: 18px; }
+.cmn-btn-lg { min-width: 300px; line-height: 80px; font-size: 54px; }
+.cmn-sm-btn { min-width: 170px; line-height: 40px; display: inline-block; padding: 0 10px; border-radius: 3px; background: #fff; font-size: 16px; color: #333; font-family: 'sulphur_pointbold'; }
+.cmn-sm-btn:hover { background: #714cc9; color: #fff; }
+.cmn-hvr { position: relative; overflow: hidden; background-size: 300% 100%; background-color: #e11b33; background-image: -webkit-gradient(linear, left top, left bottom, from(#e11b33), to(#7f121f)); background-image: linear-gradient(#e11b33), to(#7f121f); background-image: linear-gradient(to bottom, #e11b33, #961424, #961424, #e11b33); -webkit-transition: all .4s ease-in-out; transition: all .4s ease-in-out; background-size: 100% 230%; }
+.cmn-hvr:hover { color: #fff; background-position: 0 100%; transition: all .4s ease-in-out; }
+.cmn-hvr span { position: relative; z-index: 1; }
+.cmn-hvr-wt:hover, .cmn-hvr-wt:before { background: #fff; }
+/* common button css */
+
+/* header css */
+#header { position: absolute; top: 0; left: 0; width: 100%; padding: 26px 0 0; }
+.home-logo-blk { position: relative; }
+.navbar-brand { margin: 0; padding: 0; }
+/*.playnow-btn:hover { background-image: linear-gradient(to bottom, #7f121f, #e11b33); }*/
+.floating-btn { position: absolute; bottom: 153px; right: 210px; }
+/* header css */
+
+/* middle css */
+#middle { display: block; background: url(../images/top-bg.png) no-repeat top center; background-size: 100% auto; padding: 425px 0 0; }
+.obj-one { position: absolute; top: 285px; right: 50px; }
+.obj-two { position: absolute; top: -95px; left: 20px; opacity: 0.53; }
+.obj-three { position: absolute; top: 110px; left: 15px; opacity: 0.59; }
+.obj-four { position: absolute; top: 55px; right: 10px; opacity: 0.48; }
+.home-top-row { display: block;}
+.free-game-row { display: flex; align-items: flex-start; justify-content: center; }
+.free-game-icon { width: 128px; height: 128px; display: flex; align-items: center; justify-content: center; background-image: linear-gradient(to bottom, #e11b33, #7f121f); position: relative; border: 1px solid #bb2839; border-radius: 50%; flex-shrink: 0; }
+.free-game-icon:after { content: ''; width: 145px; height: 145px; border: 1px solid #444; border-radius: 50%; position: absolute; left: -10px; top: -10px; }
+.free-game-cont { width: calc(100% - 30px); padding-left: 40px; }
+.free-game-cont h4 { color: #fff; font-size: 30px; line-height: 36px; font-family: 'hindsemibold'; margin: 0 0 17px; }
+.free-game-cont p { font-size: 21px; line-height: 30px; margin: 0; text-align: justify; }
+.home-slider-row { display: block; position: relative; padding: 30px 0 0 450px; max-width: 2007px; margin: auto; }
+.mafia-game-img { width: 100%; height: 250px; border-radius: 0px; overflow: hidden; position: relative; border: 2px solid #979797; }
+.mafia-game-img:hover { border-color: #ffffff; }
+.owl-theme .owl-nav.disabled+.owl-dots { margin: 20px 0 0; margin-left: -500px;}
+.owl-theme .owl-dots .owl-dot { width: 13px; height: 13px; border-radius: 50%; background: #666; margin: 0 5px; }
+.owl-theme .owl-dots .owl-dot.active { background: #fff; }
+.owl-theme .owl-dots .owl-dot span { display: none; }
+.multiplayer-row { display: block; padding: 18px 0 90px; position: relative; }
+.cmn-title { display: block; margin: 0 0 25px; text-align: center; }
+.cmn-title h2 { display: block; font-size: 35px; color: #d6d6d6; }
+.cmn-title p { margin: 20px 0 0; font-size: 21px; }
+.cmn-title .cmn-btn { margin: 20px 0 0; }
+.multiplayer-row .cmn-title { margin-bottom: 30px; }
+.multiplayer-listing { display: block; margin: 0 20px; }
+.multiplayer-blk { display: block; text-align: center; }
+.multiplayer-blk p { font-size: 20px; }
+.multiplayer-icon { display: flex; align-items: center; justify-content: center; margin: auto; width: 195px; height: 195px; border-radius: 50%; background: #000; margin-bottom: 65px; box-shadow: 0 17px 12px 4px rgba(239, 26, 26, 0.1); }
+.multiplayer-icon:after { content: ''; position: absolute; top: 0; left: 0; right: 0; margin: auto; z-index: -1; }
+.competition-blk .multiplayer-icon:after { background: url(../images/blood-splash-1.png) no-repeat center; width: 191px; height: 224px; left: 130px; top: 20px; }
+.online-blk .multiplayer-icon:after { background: url(../images/blood-splash-2.png) no-repeat center; width: 229px; height: 275px; top: -18px; }
+.business-blk .multiplayer-icon:after { background: url(../images/blood-splash-3.png) no-repeat center; width: 250px; height: 252px; top: 30px; left: 43px; }
+.multiplayer-icon-inn { display: flex; align-items: center; justify-content: center; margin: auto; width: 173px; height: 173px; border-radius: 50%; background: #1d1d1d; z-index: 1; position: relative; }
+.multiplayer-blk h4 { font-size: 28px; line-height: 40px; color: #fff; font-family: 'hindsemibold'; margin: 0 0 20px; min-height: 120px; }
+.pointers-main { display: block; position: relative; }
+.listpointers-section { display: block; padding-bottom: 170px; position: relative; }
+.abt-mafia-row { padding-bottom: 220px; }
+.alliance-section { padding: 120px 0 300px; }
+.enemies-section { padding-bottom: 70px; }
+.cmn-listpointers { display: block; position: relative; z-index: 1; }
+.cmn-listpointers li { position: relative; padding: 0 0 0 60px; margin-bottom: 10px; font-size: 20px; }
+.cmn-listpointers li:last-child { margin-bottom: 0; }
+.cmn-listpointers li:before { content: ''; width: 59px; height: 58px; background-size: 100%; background: url(../images/list-bullet.png) no-repeat center; position: absolute; left: -5px; top: -12px; }
+.pointers-float-img { position: relative; }
+.pointers-float-img i { position: absolute; }
+.register-img { left: 0px; top: -60px; }
+.fight-img { left: -155px; top: -180px; }
+.fight-img img { max-width: 100%; }
+.alliance-img { left: -170px; top: -320px; }
+.enemies-img { left: 20px; top: -200px; }
+.pointers-cont { position: relative; z-index: 1; }
+.in-safe-text { position: absolute; top: 30px; right: -260px; font-size: 35px; color: #777; text-align: center; }
+.in-safe-text span { display: block; font-size: 35px; color: #e21b33; font-family: 'hindsemibold'; margin: 7px 0 0; }
+.friends-section { display: block; padding: 90px 0 12px; }
+.frnd-saying-row { display: block; margin: 0 55px; }
+.frnd-saying-row .col-lg-4 { padding-left: 7px; padding-right: 7px; }
+.frnd-card { display: flex; min-height: 420px; background: #404040; border-radius: 15px; text-align: center; padding: 35px 22px; margin-bottom: 30px; flex-direction: column; justify-content: flex-end; transition: all .4s ease-in-out 0s; }
+.frnd-card:hover { box-shadow: 0 10px 25px 10px rgba(0,0,0,.1); -webkit-transform: translateY(-5px); transform: translateY(-5px); background-image: linear-gradient(#e11b33, #7f121f); }
+.frnd-cmnt { height: 180px; margin: 0 0 40px; display: flex; align-items: center; justify-content: center; }
+.frnd-cmnt p { font-size: 21px; line-height: 27px; }
+.checked { color: #ecb71f; }
+.frnd-cont { display: block; margin: 30px 0 0; }
+.frnd-cont p { font-size: 20px; line-height: 25px; margin-bottom: 30px; }
+.frnd-cont p:last-child { margin-bottom: 0; }
+.rating { display: block; text-align: center; }
+.rating span { font-size: 23px; }
+/* middle css */
+
+/* footer css */
+#footer { display: block; padding: 90px 0 30px; background: url(../images/ftr-bg.webp) no-repeat center top; background-size: cover; }
+.acpt-challenge-row { width: 100%; display: block; }
+.ftr-links { width: 100%; display: block; margin: 30px 0; }
+.ftr-title { display: block; font-size: 30px; color: #d6d6d6; font-family: 'hindsemibold'; margin: 0 0 20px; }
+.ftr-blk ul li { margin-bottom: 5px; }
+.ftr-blk ul li:last-child { margin-bottom: 0; }
+.ftr-blk ul li a { font-size: 21px; color: #d6d6d6; }
+.ftr-blk ul li a:hover { color: #e11b33; }
+.social-links { width: 100%; text-align: center; }
+.social-links a { margin: 0 19px; font-size: 80px; display: inline-block; }
+.ftr-links .row { margin: 0; }
+.social-links a:hover { opacity: 0.5; }
+.copyright-text { display: block; text-align: center; font-size: 16px; line-height: 22px; width: 100%; }
+.follow-links { display: block; margin: 0 0 20px; text-align: center; width: 100%; }
+.follow-links span { display: block; font-size: 30px; color: #fff; font-family: 'hindmedium'; margin: 0 0 20px; }
+.follow-links a { display: inline-block; margin: 0 13px; font-size: 45px; color: #fff; }
+.follow-links a:hover { color: #e11b33; }
+.pypal-img {float: right;}
+/* footer css */
+
+/* login form **/
+.login-box {max-width: 540px; margin: auto; display: block; position: relative;}
+.form-hdr {display: block; width: 100%; text-align: center; position: relative; margin-bottom: 30px;}
+.form-hdr h3 {font-size: 40px; line-height: 50px; color: #fff; font-family: 'hindsemibold'; text-transform: uppercase; box-shadow: 0 0 5px rgba(0,0,0,.3);}
+.form-social-btns {display: block; text-align: center; margin: 0 0 10px;}
+.form-social-btns a {display: inline-block; margin: 0 0 10px 0;}
+.form-social-btns span { display: block; }
+.form-subhdr {display: block; margin: 0 0 20px; text-align: center; width:100%;}
+.form-subhdr h4 {color: #fff; text-transform: uppercase; font-family: 'hind_regularregular'; font-size: 26px; line-height: 36px;}
+.form-row {margin: 0 -15px;}
+.form-row>.col, .form-row>[class*=col-] {padding: 0 15px;}
+.form-group {margin-bottom: 20px;}
+.form-group label {font-size: 18px; color: #fff; margin-bottom: 4px;}
+.login-btn {width: 100%; line-height: 55px; font-size: 32px; min-width: inherit;}
+.form-control {border: none; border-radius: 0; height: 55px; width: 100%; font-size: 18px; color: #000; padding: 0 15px;}
+.form-control:focus {outline: none;}
+.btn-row {margin-top: 10px;}
+.form-social-btns img { border-radius: 4px; }
+/* login form **/
+
+#middle.login { padding-top: 200px; }
+
+.logo-img { width: 290px; float: left; }
+.logo-cnt { width: 475px; float: left; }
+.playnow-btn { margin-left: 110px; margin-top: 50px; }
+h2.title-big-font { font-size: 50px; }
+
+.home-slider-row .owl-carousel .owl-stage-outer { height: 250px; }
+img.vidoo-play-icon { position: absolute; top: 50%; transform: translateY(-50%); left: 0; right: 0; margin: auto; object-fit: none; width: auto !important; height: auto !important; }
+
+.login-agree { font-size: 18px; text-align: center; color: #999; line-height: 30px; }
+.login-agree a { text-decoration: underline; color: #fff; }
+.login-agree a:hover { text-decoration: none;}
+.robot-captcha { text-align: center; margin: 5px 0 15px 0; }
+.robot-captcha img { max-width: 100%;  }
+.dontaccount { text-transform: uppercase; font-size: 15px; color: #999; }
+.dontaccount a { color: #fff; text-decoration: underline; font-size: 23px; }
+.dontaccount a:hover { text-decoration: none; }
+.cant-access a {color: #fff; text-decoration: underline; font-size: 23px; text-transform: uppercase;}
+.cant-access a:hover { text-decoration: none; }
+
+.g-recaptcha > div {
+    margin: auto;
+}
+
+
+/* The container */
+.custom-chkbx .container {
+  display: inline;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.custom-chkbx .container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.custom-chkbx .checkmark {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: transparent;
+  border: 1px solid #999999;
+}
+
+/* On mouse-over, add a grey background color */
+.custom-chkbx .container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.custom-chkbx .container input:checked ~ .checkmark {
+  background-color: #ffffff;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.custom-chkbx .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.custom-chkbx .container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.custom-chkbx .container .checkmark:after {
+  left: 9px;
+  top: 7px;
+  width: 5px;
+  height: 10px;
+  border: solid #000000;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.google-play-img { text-align: right; margin-top: 10px; }
+.google-play-img img { width: 180px; }
