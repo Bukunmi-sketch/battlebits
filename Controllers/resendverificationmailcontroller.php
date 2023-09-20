@@ -1,5 +1,7 @@
 <?php
 
+require '../Includes/db.inc.php';
+
 include '../Models/Users.php';
 include '../Models/Register.php';
 include '../Models/Auth.php';
@@ -27,8 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $mailotp = substr($text_suff, 0, 6);
 
     $email = $_POST['email'];
-    $fullname = $_POST['fullname'];
-    $username = $_POST['username'];
+    $playername = $_POST['playername'];
     $userid = $_POST['userid'];
 
 
@@ -38,8 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         $data = [
             'email' => $email,
             'websiteurl'=>$website_url,
-            'fullname' => $fullname,
-            'username' => $username,
+            'playername' => $playername,
             'mailotp' => $mailotp,
             'from' => $website_name,
             'websiteemail' => $website_email,
@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         <center><img src='$website_url/images/dashboard-logo.png' width='100px;'></center>
         <div style='font-family: sans-serif; padding: 10px; margin: 5px; background: white; margin: 5px 5%; border-radius: 10px;'>
         <center><img src='$website_url/images/mail.png' width='100px'></center>
-        <p>Hi <b>$fullname ($username)</b></p>
+        <p>Hi <b> ($playername)</b></p>
         <p>Welcome to $website_name</p>
         <p style='text-align: center; font-size: 25px;'><b>$mailotp</b></p>
         <p>Enter the Code above to verify your account</p>

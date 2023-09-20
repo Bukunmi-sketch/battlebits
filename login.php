@@ -75,7 +75,7 @@
                                             <div class="login-agree">
                                                 <div class="cant-access"><a href="forget">Can't Access your account?</a></div>
 
-                    <span class="login_span">I agree to the <a href="terms.php">Terms of Service</a> & <a href="datapolicy.php">Data Privacy Policy</a></span><br>
+                    <span class="login_span">I agree to the <a href="#">Terms of Service</a> & <a href="#">Data Privacy Policy</a></span><br>
                                                 <!--<input name="" type="checkbox" value=""> Remember my login on this computer -->
         
                                             </div>

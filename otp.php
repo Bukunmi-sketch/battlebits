@@ -1,6 +1,23 @@
+<?php
+session_start();
+ob_start();
+
+require './Includes/autoload.php';
+
+if(!isset($_SESSION["email-check"]) || $_SESSION['email-check'] !== true ){
+    $authInstance->redirect("login.php");
+}
+
+$sessionid=$_SESSION['id'];
+$email=$_SESSION['email'];
+$otpp=$_SESSION['mailotp'];
+$playername= $_SESSION['playername'];
+
+?>
+
 <!DOCTYPE html>
 <html>
-
+<title>Enter Verification pin</title>
 <head>
     <link rel="stylesheet" href="globals.css" />
     <link rel="stylesheet" href="style.cs" />
@@ -35,7 +52,7 @@
                 <div class="form-subhdr">
                     <div class="dontaccount">
                         <!-- DON'T HAVE AN ACCOUNT? <br> -->
-                        <a href="signup">Enter the pin sent to your email</a>
+                        <a href="javascript:void(0)">Enter the pin sent to your email</a>
                     </div>
                 </div>
                 <div class="login-form">
@@ -52,7 +69,7 @@
                                 <div class="form-group">
                                     <label for="otp">Otp Pin</label>
                                     <div class="input-group">
-                                        <input type="number" name="otp" placeholder="Enter pin" class="form-control" />
+                                        <input type="number" name="mailotp" placeholder="Enter pin" class="form-control" value="<?php echo $otpp; ?>"/>
                                     </div>
                                 </div>
                             </div>
@@ -71,7 +88,9 @@
 
                             <div class="col-sm-12 col-xs-12">
                                 <div class="login-agree">
-                                    <div class="cant-access"><a href="lostpass.php">Enter the pin sent to your email to continue</a></div>
+                                <div class="some_div"></div>
+                                <span class="spinner" style="display:none;"><i class="fa fa-spinner fa-pulse" aria-hidden="true"></i></span>
+                                    <div class="cant-access">Resend Verification Code</div>
 
                                     <!-- <span class="login_span">I agree to the <a href="terms.php">Terms of Service</a> & <a href="datapolicy.php">Data Privacy Policy</a></span><br> -->
                                     <!--<input name="" type="checkbox" value=""> Remember my login on this computer -->
@@ -88,7 +107,10 @@
                                             </div>
                                         </div>-->
                             <div class="col text-center btn-row">
-                            <input type="hidden" name="action" value="email-verify">
+                                <input type="hidden" name="action" value="verify_pin">
+                                <input type="hidden" name="userid" value="<?php echo $sessionid; ?>">
+                                <input type="hidden" name="email" value="<?php echo $email; ?>">
+                                <input type="hidden" name="playername" value="<?php echo $playername; ?>">
                                 <button type="submit" id="button" class="login_btn">Submit</button>
                             </div>
                         </div>
@@ -121,7 +143,8 @@
 
                     let data = xhr.responseText;
                     if (data == "success") {
-                        location.href = "otp";
+                        location.href = "new";
+                        btn.innerHTML = "success";
                     } else {
                         error.textContent = data;
                         error.style.display = "block";
@@ -141,7 +164,74 @@
         let formdata = new FormData(form);
         xhr.send(formdata);
     }
-</script>
+
+    const resend = document.querySelector(".cant-access");
+    const spinner = document.querySelector("span.spinner");
+    var elem = document.getElementById('some_div');
+
+    resend.onclick = () => {
+       
+        let xhr = "";
+        if (window.XMLHttpRequest) {
+            xhr = new XMLHttpRequest();
+        } else {
+            xhr = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xhr.onreadystatechange = () => {
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+                if (xhr.status === 200) {
+
+                    let data = xhr.responseText;
+                    if (data == "success") {
+
+                        resend.style.display = "none";
+                        spinner.innerHTML = "pin has been sent!";
+                        spinner.style.color = "green";
+
+
+                        var timeLeft = 10;
+                       
+                        var timerId = setInterval(countdown, 1000);
+
+                        function countdown() {
+                            if (timeLeft == -1) {
+                                clearTimeout(timerId);
+                                elem.innerHTML = "";
+                              //  elem.style.display = "";
+                                resend.style.display = "block";
+                                spinner.innerHTML = "";
+                            } else {
+                                elem.innerHTML = timeLeft + ' secs wait';
+                                timeLeft--;
+                            }
+                        } //countdown function
+                    } else {
+                        error.textContent = data;
+                        error.style.display = "block";
+                        spinner.innerHTML = "unable to resend pin";
+                        spinner.style.color = "red";
+
+
+
+                    }
+                } //STATUS ===200
+            } else {
+                spinner.innerHTML = '<i class="fa fa-spinner fa-pulse"></i>';
+                spinner.style.display = "block";
+               
+
+                btn.style.color = "white";
+                btn.style.fontSize = "1.2em";
+
+            } //DONE
+        }
+
+        xhr.open("POST", "./Controllers/resendverificationmailcontroller.php", true);
+        let formdata = new FormData(form);
+        xhr.send(formdata);
+    }
+
+    </script>
 
     <!-- Footer Section -->
 

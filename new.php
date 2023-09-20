@@ -1,6 +1,25 @@
+<?php
+session_start();
+ob_start();
+
+require './Includes/autoload.php';
+
+$authInstance = new Auth($conn);
+
+$sessionid = $_SESSION['id'];
+//used as a unique key to get all the users data after signup 
+$email = $_SESSION['email'];
+
+
+
+if (!isset($_SESSION["pin"]) || $_SESSION["pin"] !== true) {
+    $authInstance->redirect("otp");
+}
+?>
+
 <!DOCTYPE html>
 <html>
-<title>Confirm Email Address</title>
+
 <head>
     <link rel="stylesheet" href="globals.css" />
     <link rel="stylesheet" href="style.cs" />
@@ -33,8 +52,9 @@
                     <span><button class="social_btn" type="button" id="google"><img src="presentation/v1/images/google-login-btn.png" alt="warlords"></button></span>
                 </div> -->
                 <div class="form-subhdr">
-                    <div class="dontaccount">DON'T HAVE AN ACCOUNT? <br>
-                        <a href="javascript:void(0)">ENTER REGISTERED EMAIL ADDRESS</a>
+                    <div class="dontaccount">
+                        <!-- DON'T HAVE AN ACCOUNT? <br> -->
+                        <a href="javascript:void(0)">You can now change your password</a>
                     </div>
                 </div>
                 <div class="login-form">
@@ -49,15 +69,22 @@
                         <div class="form-row">
                             <div class="col-sm-12 col-xs-12">
                                 <div class="form-group">
-                                    <label for="email">Email Address</label>
+                                    <label for="otp">New Password</label>
                                     <div class="input-group">
-                                        <input type="email" name="email" placeholder="Enter Your email" class="form-control" />
+                                        <input type="password" name="password" placeholder="Enter pin" class="form-control" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="otp">Confirm Password</label>
+                                    <div class="input-group">
+                                        <input type="password" name="confirmpassword" placeholder="Enter pin" class="form-control" />
                                     </div>
                                 </div>
                             </div>
 
                            
-                            <div class="col text-center btn-row">
+                            <!-- <div class="col text-center btn-row">
                                 <div class="captcha-sect">
                                     <div class="form-group form-group-lg">
 
@@ -66,11 +93,11 @@
                                     </div>
                                 </div>
 
-                            </div>
+                            </div> -->
 
                             <div class="col-sm-12 col-xs-12">
                                 <div class="login-agree">
-                                    <div class="cant-access"><a href="javascript:void(0)">Enter your email address to continue</a></div>
+                                    <!-- <div class="cant-access"><a href="lostpass.php">Enter the pin sent to your email to continue</a></div> -->
 
                                     <!-- <span class="login_span">I agree to the <a href="terms.php">Terms of Service</a> & <a href="datapolicy.php">Data Privacy Policy</a></span><br> -->
                                     <!--<input name="" type="checkbox" value=""> Remember my login on this computer -->
@@ -87,7 +114,8 @@
                                             </div>
                                         </div>-->
                             <div class="col text-center btn-row">
-                            <input type="hidden" name="action" value="email-verify">
+                                <input type="hidden" name="userid" value="<?php echo $sessionid; ?>">
+                                <input type="hidden" name="action" value="password-reset">
                                 <button type="submit" id="button" class="login_btn">Submit</button>
                             </div>
                         </div>
@@ -120,7 +148,7 @@
 
                     let data = xhr.responseText;
                     if (data == "success") {
-                        location.href = "otp";
+                        location.href = "login";
                     } else {
                         error.textContent = data;
                         error.style.display = "block";

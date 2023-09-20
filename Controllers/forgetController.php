@@ -77,7 +77,6 @@ $admin_mail = $settingInfo['admin_mail'];
                                               $_SESSION['mailotp']=$mailotp;
                                               $_SESSION['id']=$data['id'];
                                               $_SESSION['email-check']=true;
-
                                               $playername= $_SESSION['playername'];
                                               $email= $_SESSION['email'];
                                          //     echo "success";     
