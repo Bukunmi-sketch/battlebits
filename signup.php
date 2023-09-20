@@ -689,7 +689,7 @@
             <div class="menu">
                 <ul>
                     <li class="footer_links1">Menu</li>
-                    <li class="footer_links"><a href="">Home</a></li>
+                    <li class="footer_links"><a href="index">Home</a></li>
                     <li class="footer_links"><a href="">Our Service</a></li>
                     <li class="footer_links"><a href="">About Us</a></li>
                     <li class="footer_links"><a href="">Contact Us</a></li>

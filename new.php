@@ -19,7 +19,7 @@ if (!isset($_SESSION["pin"]) || $_SESSION["pin"] !== true) {
 
 <!DOCTYPE html>
 <html>
-
+<title>Enter New Password</title>
 <head>
     <link rel="stylesheet" href="globals.css" />
     <link rel="stylesheet" href="style.cs" />
